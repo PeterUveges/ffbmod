@@ -1,25 +1,740 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="8.5in"
    height="11in"
    viewBox="0 0 8.5 11"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
    sodipodi:docname="ysFFB_panel_slide2.svg"
    inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Hardware/Panel/ysFFB_panel_slide.png"
    inkscape:export-xdpi="27.282982"
-   inkscape:export-ydpi="27.282982">
+   inkscape:export-ydpi="27.282982"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3918"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3914"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3910"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3906"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3902"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3884"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3880"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3876"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3872"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3868"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3849"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3845"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3841"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3837"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3833"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3815"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3811"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3807"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3803"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3799"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3781"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3777"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3773"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3769"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3765"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3747"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3743"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3739"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3735"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3731"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3713"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3709"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3705"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3701"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3697"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3679"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3675"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3671"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3667"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3663"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3645"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3641"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3637"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3633"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3629"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3611"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3607"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3603"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3599"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3595"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3577"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3573"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3569"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3565"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3561"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3543"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3539"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3535"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3531"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3527"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3509"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3505"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3501"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3497"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3493"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect2207"
@@ -741,6 +1456,61 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path11175" />
     </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2802"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2808"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2814"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2820"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2826"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -749,14 +1519,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60104076"
-     inkscape:cx="369.17878"
-     inkscape:cy="449.52232"
+     inkscape:zoom="0.85"
+     inkscape:cx="501.76471"
+     inkscape:cy="488.82353"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
-     showgrid="true"
+     showgrid="false"
      units="in"
-     inkscape:window-width="1623"
+     inkscape:window-width="1552"
      inkscape:window-height="1012"
      inkscape:window-x="192"
      inkscape:window-y="8"
@@ -780,12 +1550,13 @@
      inkscape:snap-global="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid10120"
        units="mm"
-       spacingx="0.039370079"
+       spacingx="0.019685039"
        spacingy="0.039370079"
        empspacing="7"
        originx="0"
@@ -938,7 +1709,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -947,7 +1717,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-17.6)"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2161"
@@ -2119,7 +2890,7 @@
        height="7.8740158"
        width="7.8740158"
        id="rect2111-6"
-       style="display:inline;opacity:1;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="999.99799"
        inkscape:export-ydpi="999.99799"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png" />
@@ -3492,7 +4263,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Art"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3491"
@@ -3589,7 +4360,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="Labels"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5115"
@@ -3708,25 +4479,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="4.5275598"
-       y="3.007874"
+       y="3.2047243"
        id="text4731"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4729"
          x="4.5275598"
-         y="3.007874"
+         y="3.2047243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">390 Hz</tspan></text>
     <text
        id="text4759"
-       y="3.007874"
+       y="3.2047243"
        x="6.7322841"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="3.007874"
+         y="3.2047243"
          x="6.7322841"
          id="tspan4757"
          sodipodi:role="line">1.75 kHz</tspan></text>
@@ -3734,25 +4505,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.9763782"
-       y="3.007874"
+       y="3.2047243"
        id="text4787"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4785"
          x="3.9763782"
-         y="3.007874"
+         y="3.2047243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">265 Hz</tspan></text>
     <text
        id="text4815"
-       y="3.007874"
+       y="3.2047243"
        x="6.1811028"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="3.007874"
+         y="3.2047243"
          x="6.1811028"
          id="tspan4813"
          sodipodi:role="line">1.2 kHz</tspan></text>
@@ -3760,38 +4531,38 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="8.9370079"
-       y="3.007874"
+       y="3.2047243"
        id="text4849"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4847"
          x="8.9370079"
-         y="3.007874"
+         y="3.2047243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">8.05 kHz</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="8.3858271"
-       y="3.007874"
+       y="3.2047243"
        id="text4855"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4853"
          x="8.3858271"
-         y="3.007874"
+         y="3.2047243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">5.5 kHz</tspan></text>
     <text
        id="text4929"
-       y="3.007874"
+       y="3.2047243"
        x="3.4251971"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="3.007874"
+         y="3.2047243"
          x="3.4251971"
          id="tspan4927"
          sodipodi:role="line">185 Hz</tspan></text>
@@ -3799,25 +4570,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="5.6299219"
-       y="3.007874"
+       y="3.2047243"
        id="text4935"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4933"
          x="5.6299219"
-         y="3.007874"
+         y="3.2047243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">830 Hz</tspan></text>
     <text
        id="text4941"
-       y="3.007874"
+       y="3.2047243"
        x="2.874016"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="3.007874"
+         y="3.2047243"
          x="2.874016"
          id="tspan4939"
          sodipodi:role="line">125 Hz</tspan></text>
@@ -3825,38 +4596,38 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="5.0787406"
-       y="3.007874"
+       y="3.2047243"
        id="text4947"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4945"
          x="5.0787406"
-         y="3.007874"
+         y="3.2047243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">570 Hz</tspan></text>
     <text
        id="text4953"
-       y="3.007874"
+       y="3.2047243"
        x="7.8346462"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="3.007874"
+         y="3.2047243"
          x="7.8346462"
          id="tspan4951"
          sodipodi:role="line">3.8 kHz</tspan></text>
     <text
        id="text4959"
-       y="3.007874"
+       y="3.2047243"
        x="7.2834649"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="3.007874"
+         y="3.2047243"
          x="7.2834649"
          id="tspan4957"
          sodipodi:role="line">2.6 kHz</tspan></text>
@@ -3864,55 +4635,55 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.322835"
-       y="3.007874"
+       y="3.2047243"
        id="text5069"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan5067"
          x="2.322835"
-         y="3.007874"
+         y="3.2047243"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">LOW PASS</tspan></text>
     <text
        id="text5097"
-       y="3.007874"
+       y="3.2047243"
        x="9.4881887"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="3.007874"
+         y="3.2047243"
          x="9.4881887"
          id="tspan5095"
          sodipodi:role="line">HIGH PASS</tspan></text>
     <text
        xml:space="preserve"
        id="text2358"
-       style="font-size:0.125px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2360);fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;stop-color:#000000;" />
+       style="font-size:0.125px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2360);fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;stop-color:#000000" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="4.5275593"
-       y="6.3149605"
+       y="6.1181102"
        id="text4151"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4149"
          x="4.5275593"
-         y="6.3149605"
+         y="6.1181102"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">390 Hz</tspan></text>
     <text
        id="text4155"
-       y="6.3149605"
+       y="6.1181102"
        x="6.7322836"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="6.3149605"
+         y="6.1181102"
          x="6.7322836"
          id="tspan4153"
          sodipodi:role="line">1.75 kHz</tspan></text>
@@ -3920,25 +4691,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.976378"
-       y="6.3149605"
+       y="6.1181102"
        id="text4159"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4157"
          x="3.976378"
-         y="6.3149605"
+         y="6.1181102"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">265 Hz</tspan></text>
     <text
        id="text4164"
-       y="6.3149605"
+       y="6.1181102"
        x="6.1811023"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="6.3149605"
+         y="6.1181102"
          x="6.1811023"
          id="tspan4162"
          sodipodi:role="line">1.2 kHz</tspan></text>
@@ -3946,38 +4717,38 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="8.9370079"
-       y="6.3149605"
+       y="6.1181102"
        id="text4168"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4166"
          x="8.9370079"
-         y="6.3149605"
+         y="6.1181102"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">8.05 kHz</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="8.3858271"
-       y="6.3149605"
+       y="6.1181102"
        id="text4172"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4170"
          x="8.3858271"
-         y="6.3149605"
+         y="6.1181102"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">5.5 kHz</tspan></text>
     <text
        id="text4176"
-       y="6.3149605"
+       y="6.1181102"
        x="3.4251969"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="6.3149605"
+         y="6.1181102"
          x="3.4251969"
          id="tspan4174"
          sodipodi:role="line">185 Hz</tspan></text>
@@ -3985,25 +4756,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="5.6299214"
-       y="6.3149605"
+       y="6.1181102"
        id="text4180"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4178"
          x="5.6299214"
-         y="6.3149605"
+         y="6.1181102"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">830 Hz</tspan></text>
     <text
        id="text4184"
-       y="6.3149605"
+       y="6.1181102"
        x="2.8740158"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="6.3149605"
+         y="6.1181102"
          x="2.8740158"
          id="tspan4182"
          sodipodi:role="line">125 Hz</tspan></text>
@@ -4011,38 +4782,38 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="5.0787401"
-       y="6.3149605"
+       y="6.1181102"
        id="text4188"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4186"
          x="5.0787401"
-         y="6.3149605"
+         y="6.1181102"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">570 Hz</tspan></text>
     <text
        id="text4192"
-       y="6.3149605"
+       y="6.1181102"
        x="7.8346457"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
-         y="6.3149605"
+         y="6.1181102"
          x="7.8346457"
          id="tspan4190"
          sodipodi:role="line">3.8 kHz</tspan></text>
     <text
        id="text4196"
-       y="6.3149605"
+       y="6.1181102"
        x="7.2834644"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="6.3149605"
+         y="6.1181102"
          x="7.2834644"
          id="tspan4194"
          sodipodi:role="line">2.6 kHz</tspan></text>
@@ -4050,31 +4821,31 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.3228347"
-       y="6.3149605"
+       y="6.1181102"
        id="text4200"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4198"
          x="2.3228347"
-         y="6.3149605"
+         y="6.1181102"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">LOW PASS</tspan></text>
     <text
        id="text4204"
-       y="6.3149605"
+       y="6.1181102"
        x="9.4881887"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="6.3149605"
+         y="6.1181102"
          x="9.4881887"
          id="tspan4202"
          sodipodi:role="line">HIGH PASS</tspan></text>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.1653544,2.7322875 h 0.07874"
+       d="m 2.1653544,2.9291379 h 0.07874"
        id="path4261"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
@@ -4084,124 +4855,600 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="5.6299214"
-       y="2.1811023"
+       y="2.3779526"
        id="text3992"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan3990"
          x="5.6299214"
-         y="2.1811023"
+         y="2.3779526"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167;stroke-linecap:square;stroke-linejoin:round">ODD CELLS</tspan></text>
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2.3228354,2.4566937 c 0,0 6.6141754,0 6.6141754,0"
+       d="m 2.3228354,2.6535441 c 0,0 6.6141754,0 6.6141754,0"
        id="path2917"
        inkscape:path-effect="#path-effect2919"
-       inkscape:original-d="M 2.3228354,2.4566937 H 8.9370108" />
+       inkscape:original-d="M 2.3228354,2.6535441 H 8.9370108" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2.3228354,2.7322843 c 0,0 0,-0.2755906 0,-0.2755906"
+       d="m 2.3228354,2.9291347 c 0,0 0,-0.2755906 0,-0.2755906"
        id="path2923"
        inkscape:path-effect="#path-effect2925"
-       inkscape:original-d="M 2.3228354,2.7322843 V 2.4566937" />
+       inkscape:original-d="M 2.3228354,2.9291347 V 2.6535441" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 3.425198,2.7322843 c 0,0 0,-0.2755906 0,-0.2755906"
+       d="m 3.425198,2.9291347 c 0,0 0,-0.2755906 0,-0.2755906"
        id="path2927"
        inkscape:path-effect="#path-effect2929"
-       inkscape:original-d="M 3.425198,2.7322843 V 2.4566937" />
+       inkscape:original-d="M 3.425198,2.9291347 V 2.6535441" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 4.5275605,2.7322843 c 0,0 0,-0.2755906 0,-0.2755906"
+       d="m 4.5275605,2.9291347 c 0,0 0,-0.2755906 0,-0.2755906"
        id="path2931"
        inkscape:path-effect="#path-effect2933"
-       inkscape:original-d="M 4.5275605,2.7322843 V 2.4566937" />
+       inkscape:original-d="M 4.5275605,2.9291347 V 2.6535441" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 5.6299231,2.7322844 c 0,0 0,-0.5118119 0,-0.5118119"
+       d="m 5.6299231,2.9291348 c 0,0 0,-0.5118119 0,-0.5118119"
        id="path2935"
        inkscape:path-effect="#path-effect2937"
-       inkscape:original-d="M 5.6299231,2.7322844 V 2.2204725" />
+       inkscape:original-d="M 5.6299231,2.9291348 V 2.4173229" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 6.7322857,2.7322843 c 0,0 0,-0.2755906 0,-0.2755906"
+       d="m 6.7322857,2.9291347 c 0,0 0,-0.2755906 0,-0.2755906"
        id="path2939"
        inkscape:path-effect="#path-effect2941"
-       inkscape:original-d="M 6.7322857,2.7322843 V 2.4566937" />
+       inkscape:original-d="M 6.7322857,2.9291347 V 2.6535441" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 7.8346482,2.7322843 c 0,0 0,-0.2755906 0,-0.2755906"
+       d="m 7.8346482,2.9291347 c 0,0 0,-0.2755906 0,-0.2755906"
        id="path2943"
        inkscape:path-effect="#path-effect2945"
-       inkscape:original-d="M 7.8346482,2.7322843 V 2.4566937" />
+       inkscape:original-d="M 7.8346482,2.9291347 V 2.6535441" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 8.9370108,2.7322843 c 0,0 0,-0.2755906 0,-0.2755906"
+       d="m 8.9370108,2.9291347 c 0,0 0,-0.2755906 0,-0.2755906"
        id="path2947"
        inkscape:path-effect="#path-effect2949"
-       inkscape:original-d="M 8.9370108,2.7322843 V 2.4566937" />
+       inkscape:original-d="M 8.9370108,2.9291347 V 2.6535441" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="6.1811004"
-       y="7.108521"
+       y="6.9116707"
        id="text4103"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan4101"
          x="6.1811004"
-         y="7.108521"
+         y="6.9116707"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167;stroke-linecap:square">EVEN CELLS</tspan></text>
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2.874014,6.7283465 c 0,0 6.6141754,0 6.6141754,0"
+       d="m 2.874014,6.5314961 c 0,0 6.6141754,0 6.6141754,0"
        id="path4105"
        inkscape:path-effect="#path-effect4123"
-       inkscape:original-d="M 2.874014,6.7283465 H 9.4881894" />
+       inkscape:original-d="M 2.874014,6.5314961 H 9.4881894" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2.874014,6.4527559 c 0,0 0,0.2755906 0,0.2755906"
+       d="m 2.874014,6.2559055 c 0,0 0,0.2755906 0,0.2755906"
        id="path4107"
        inkscape:path-effect="#path-effect4125"
-       inkscape:original-d="M 2.874014,6.4527559 V 6.7283465" />
+       inkscape:original-d="M 2.874014,6.2559055 V 6.5314961" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 3.9763766,6.4527559 c 0,0 0,0.2755906 0,0.2755906"
+       d="m 3.9763766,6.2559055 c 0,0 0,0.2755906 0,0.2755906"
        id="path4109"
        inkscape:path-effect="#path-effect4127"
-       inkscape:original-d="M 3.9763766,6.4527559 V 6.7283465" />
+       inkscape:original-d="M 3.9763766,6.2559055 V 6.5314961" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 5.0787391,6.4527559 c 0,0 0,0.2755906 0,0.2755906"
+       d="m 5.0787391,6.2559055 c 0,0 0,0.2755906 0,0.2755906"
        id="path4111"
        inkscape:path-effect="#path-effect4129"
-       inkscape:original-d="M 5.0787391,6.4527559 V 6.7283465" />
+       inkscape:original-d="M 5.0787391,6.2559055 V 6.5314961" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 6.1811017,6.4527558 c 0,0 0,0.5118119 0,0.5118119"
+       d="m 6.1811017,6.2559054 c 0,0 0,0.5118119 0,0.5118119"
        id="path4113"
        inkscape:path-effect="#path-effect4131"
-       inkscape:original-d="M 6.1811017,6.4527558 V 6.9645677" />
+       inkscape:original-d="M 6.1811017,6.2559054 V 6.7677173" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 7.2834643,6.4527559 c 0,0 0,0.2755906 0,0.2755906"
+       d="m 7.2834643,6.2559055 c 0,0 0,0.2755906 0,0.2755906"
        id="path4115"
        inkscape:path-effect="#path-effect4133"
-       inkscape:original-d="M 7.2834643,6.4527559 V 6.7283465" />
+       inkscape:original-d="M 7.2834643,6.2559055 V 6.5314961" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 8.3858268,6.4527559 c 0,0 0,0.2755906 0,0.2755906"
+       d="m 8.3858268,6.2559055 c 0,0 0,0.2755906 0,0.2755906"
        id="path4117"
        inkscape:path-effect="#path-effect4135"
-       inkscape:original-d="M 8.3858268,6.4527559 V 6.7283465" />
+       inkscape:original-d="M 8.3858268,6.2559055 V 6.5314961" />
     <path
        style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 9.4881894,6.4527559 c 0,0 0,0.2755906 0,0.2755906"
+       d="m 9.4881894,6.2559055 c 0,0 0,0.2755906 0,0.2755906"
        id="path4119"
        inkscape:path-effect="#path-effect4137"
-       inkscape:original-d="M 9.4881894,6.4527559 V 6.7283465" />
+       inkscape:original-d="M 9.4881894,6.2559055 V 6.5314961" />
+    <g
+       id="g2350"
+       transform="translate(0.77558082,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path2798"
+         inkscape:path-effect="#path-effect2802"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path2804"
+         inkscape:path-effect="#path-effect2808"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path2810"
+         inkscape:path-effect="#path-effect2814"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path2816"
+         inkscape:path-effect="#path-effect2820"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path2822"
+         inkscape:path-effect="#path-effect2826"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3489"
+       transform="translate(1.3267619,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3479"
+         inkscape:path-effect="#path-effect3493"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3481"
+         inkscape:path-effect="#path-effect3497"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3483"
+         inkscape:path-effect="#path-effect3501"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3485"
+         inkscape:path-effect="#path-effect3505"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3487"
+         inkscape:path-effect="#path-effect3509"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3523"
+       transform="translate(1.877943,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3513"
+         inkscape:path-effect="#path-effect3527"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3515"
+         inkscape:path-effect="#path-effect3531"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3517"
+         inkscape:path-effect="#path-effect3535"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3519"
+         inkscape:path-effect="#path-effect3539"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3521"
+         inkscape:path-effect="#path-effect3543"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3557"
+       transform="translate(2.4291241,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3547"
+         inkscape:path-effect="#path-effect3561"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3549"
+         inkscape:path-effect="#path-effect3565"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3551"
+         inkscape:path-effect="#path-effect3569"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3553"
+         inkscape:path-effect="#path-effect3573"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3555"
+         inkscape:path-effect="#path-effect3577"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3591"
+       transform="translate(2.9803052,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3581"
+         inkscape:path-effect="#path-effect3595"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3583"
+         inkscape:path-effect="#path-effect3599"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3585"
+         inkscape:path-effect="#path-effect3603"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3587"
+         inkscape:path-effect="#path-effect3607"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3589"
+         inkscape:path-effect="#path-effect3611"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3625"
+       transform="translate(3.5314863,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3615"
+         inkscape:path-effect="#path-effect3629"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3617"
+         inkscape:path-effect="#path-effect3633"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3619"
+         inkscape:path-effect="#path-effect3637"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3621"
+         inkscape:path-effect="#path-effect3641"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3623"
+         inkscape:path-effect="#path-effect3645"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3659"
+       transform="translate(4.0826674,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3649"
+         inkscape:path-effect="#path-effect3663"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3651"
+         inkscape:path-effect="#path-effect3667"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3653"
+         inkscape:path-effect="#path-effect3671"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3655"
+         inkscape:path-effect="#path-effect3675"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3657"
+         inkscape:path-effect="#path-effect3679"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3693"
+       transform="translate(4.6338485,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3683"
+         inkscape:path-effect="#path-effect3697"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3685"
+         inkscape:path-effect="#path-effect3701"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3687"
+         inkscape:path-effect="#path-effect3705"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3689"
+         inkscape:path-effect="#path-effect3709"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3691"
+         inkscape:path-effect="#path-effect3713"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3727"
+       transform="translate(5.1850296,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3717"
+         inkscape:path-effect="#path-effect3731"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3719"
+         inkscape:path-effect="#path-effect3735"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3721"
+         inkscape:path-effect="#path-effect3739"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3723"
+         inkscape:path-effect="#path-effect3743"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3725"
+         inkscape:path-effect="#path-effect3747"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3761"
+       transform="translate(5.7362107,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3751"
+         inkscape:path-effect="#path-effect3765"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3753"
+         inkscape:path-effect="#path-effect3769"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3755"
+         inkscape:path-effect="#path-effect3773"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3757"
+         inkscape:path-effect="#path-effect3777"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3759"
+         inkscape:path-effect="#path-effect3781"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3795"
+       transform="translate(6.2873918,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3785"
+         inkscape:path-effect="#path-effect3799"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3787"
+         inkscape:path-effect="#path-effect3803"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3789"
+         inkscape:path-effect="#path-effect3807"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3791"
+         inkscape:path-effect="#path-effect3811"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3793"
+         inkscape:path-effect="#path-effect3815"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3829"
+       transform="translate(6.8385729,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3819"
+         inkscape:path-effect="#path-effect3833"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3821"
+         inkscape:path-effect="#path-effect3837"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3823"
+         inkscape:path-effect="#path-effect3841"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3825"
+         inkscape:path-effect="#path-effect3845"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3827"
+         inkscape:path-effect="#path-effect3849"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3864"
+       transform="translate(7.389754,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3853"
+         inkscape:path-effect="#path-effect3868"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3855"
+         inkscape:path-effect="#path-effect3872"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3858"
+         inkscape:path-effect="#path-effect3876"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3860"
+         inkscape:path-effect="#path-effect3880"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3862"
+         inkscape:path-effect="#path-effect3884"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
+    <g
+       id="g3898"
+       transform="translate(7.9409351,0.80815862)">
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,2.5934071 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3888"
+         inkscape:path-effect="#path-effect3902"
+         inkscape:original-d="M 1.6259939,2.5934071 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.1839584 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3890"
+         inkscape:path-effect="#path-effect3906"
+         inkscape:original-d="M 1.6259939,3.1839584 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,3.7745185 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3892"
+         inkscape:path-effect="#path-effect3910"
+         inkscape:original-d="M 1.6259939,3.7745185 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.3650611 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3894"
+         inkscape:path-effect="#path-effect3914"
+         inkscape:original-d="M 1.6259939,4.3650611 H 1.7441042" />
+      <path
+         style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 1.6259939,4.9556126 c 0,0 0.1181103,0 0.1181103,0"
+         id="path3896"
+         inkscape:path-effect="#path-effect3918"
+         inkscape:original-d="M 1.6259939,4.9556126 H 1.7441042" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6433,153 +7680,10 @@
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2366"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000057"
-       y="2.287401"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2404"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000057"
-       y="2.8385816"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2442"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000057"
-       y="3.3897622"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2481"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000057"
-       y="3.940943"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2519"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000057"
-       y="4.4921241"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2557"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000057"
-       y="5.0433049"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2595"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000057"
-       y="5.5944862"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2645"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000005"
-       y="6.1456699"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2659"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000005"
-       y="6.6968503"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2673"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000005"
-       y="7.2480311"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2687"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000005"
-       y="7.799212"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2701"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000005"
-       y="8.3503933"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2715"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000005"
-       y="8.9015741"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
-    <rect
-       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2729"
-       width="2.8346457"
-       height="0.070866145"
-       x="-6.0000005"
-       y="9.452755"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="2.2965469"
        transform="rotate(-90)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
        inkscape:export-xdpi="999.99799"
@@ -6628,12 +7732,156 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
        inkscape:export-xdpi="999.99799"
        inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3511"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="2.847728"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3545"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="3.3989091"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3579"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="3.9500902"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3613"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="4.5012712"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3647"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="5.0524526"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3681"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="5.6036339"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3715"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="6.1548152"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3749"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="6.7059965"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3783"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="7.2571778"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3817"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="7.8083591"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3851"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="8.35954"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3886"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="8.9107208"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
+    <rect
+       style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3920"
+       width="2.5880084"
+       height="0.052575428"
+       x="-5.8766813"
+       y="9.4619017"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/Images/ysFFB-panel_slide2_holes-mainpcba.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Alignment"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.838;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.1811028,5.0944898 H 1.5748036"
@@ -6667,7 +7915,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Panel Hardware"
-     style="display:none">
+     style="display:inline">
     <g
        id="g3230-5"
        style="display:inline"
