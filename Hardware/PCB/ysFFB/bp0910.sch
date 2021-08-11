@@ -1,0 +1,833 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 8 9
+Title "Fixed Filter Bank"
+Date "2021-08-10"
+Rev ""
+Comp "Rich Holmes / Analog Output"
+Comment1 "or neighboring rights to this work. Published from United States."
+Comment2 "To the extent possible under law, Richard Holmes has waived all copyright and related "
+Comment3 "Based on design by Yves Usson"
+Comment4 ""
+$EndDescr
+$Comp
+L ao_symbols:TL074 U?
+U 2 1 612A76A9
+P 3700 2200
+AR Path="/611AD09D/612A76A9" Ref="U?"  Part="2" 
+AR Path="/611B137B/612A76A9" Ref="U6"  Part="2" 
+F 0 "U6" H 3700 1833 50  0000 C CNN
+F 1 "TL074" H 3700 1924 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3650 2300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3750 2400 50  0001 C CNN
+F 4 "Tayda" H 3700 2200 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 3700 2200 50  0001 C CNN "SKU"
+	2    3700 2200
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A76AF
+P 2500 1700
+AR Path="/611AD09D/612A76AF" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A76AF" Ref="C120"  Part="1" 
+F 0 "C120" H 2615 1746 50  0000 L CNN
+F 1 "2.2n" H 2615 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2538 1550 50  0001 C CNN
+F 3 "~" H 2500 1700 50  0001 C CNN
+	1    2500 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A76B5
+P 2000 1700
+AR Path="/611AD09D/612A76B5" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A76B5" Ref="C118"  Part="1" 
+F 0 "C118" H 2115 1746 50  0000 L CNN
+F 1 "4.7n" H 2115 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2038 1550 50  0001 C CNN
+F 3 "~" H 2000 1700 50  0001 C CNN
+	1    2000 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A76BB
+P 2750 2100
+AR Path="/611AD09D/612A76BB" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A76BB" Ref="C122"  Part="1" 
+F 0 "C122" V 2498 2100 50  0000 C CNN
+F 1 "4.7n" V 2589 2100 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 1950 50  0001 C CNN
+F 3 "~" H 2750 2100 50  0001 C CNN
+	1    2750 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A76C1
+P 2750 2500
+AR Path="/611AD09D/612A76C1" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A76C1" Ref="C123"  Part="1" 
+F 0 "C123" V 2498 2500 50  0000 C CNN
+F 1 "2.2n" V 2589 2500 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 2350 50  0001 C CNN
+F 3 "~" H 2750 2500 50  0001 C CNN
+	1    2750 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A76C7
+P 3050 1700
+AR Path="/611AD09D/612A76C7" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A76C7" Ref="R87"  Part="1" 
+F 0 "R87" H 3120 1746 50  0000 L CNN
+F 1 "47k" H 3120 1655 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 1700 50  0001 C CNN
+F 3 "~" H 3050 1700 50  0001 C CNN
+	1    3050 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A76CD
+P 2250 2300
+AR Path="/611AD09D/612A76CD" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A76CD" Ref="R85"  Part="1" 
+F 0 "R85" H 2320 2346 50  0000 L CNN
+F 1 "1.8k" H 2320 2255 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2180 2300 50  0001 C CNN
+F 3 "~" H 2250 2300 50  0001 C CNN
+	1    2250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A76D3
+P 1800 2100
+AR Path="/611AD09D/612A76D3" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A76D3" Ref="R83"  Part="1" 
+F 0 "R83" V 1593 2100 50  0000 C CNN
+F 1 "22k" V 1684 2100 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1730 2100 50  0001 C CNN
+F 3 "~" H 1800 2100 50  0001 C CNN
+	1    1800 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A76D9
+P 2250 2500
+AR Path="/611AD09D/612A76D9" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A76D9" Ref="#PWR075"  Part="1" 
+F 0 "#PWR075" H 2250 2250 50  0001 C CNN
+F 1 "GND" H 2255 2327 50  0000 C CNN
+F 2 "" H 2250 2500 50  0001 C CNN
+F 3 "" H 2250 2500 50  0001 C CNN
+	1    2250 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A76DF
+P 3300 2400
+AR Path="/611AD09D/612A76DF" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A76DF" Ref="#PWR077"  Part="1" 
+F 0 "#PWR077" H 3300 2150 50  0001 C CNN
+F 1 "GND" H 3305 2227 50  0000 C CNN
+F 2 "" H 3300 2400 50  0001 C CNN
+F 3 "" H 3300 2400 50  0001 C CNN
+	1    3300 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 2100 2250 2100
+Wire Wire Line
+	2900 2100 2950 2100
+Connection ~ 2250 2100
+Wire Wire Line
+	2250 2100 2550 2100
+Wire Wire Line
+	3400 2300 3300 2300
+Wire Wire Line
+	3300 2300 3300 2400
+Wire Wire Line
+	2250 2150 2250 2100
+Wire Wire Line
+	2250 2450 2250 2500
+Wire Wire Line
+	2000 1850 2000 1900
+Wire Wire Line
+	2000 1900 2250 1900
+Wire Wire Line
+	2500 1900 2500 1850
+Wire Wire Line
+	2000 1550 2000 1500
+Wire Wire Line
+	2000 1500 2500 1500
+Wire Wire Line
+	4050 1500 4050 2100
+Wire Wire Line
+	4050 2200 4000 2200
+Wire Wire Line
+	2500 1550 2500 1500
+Connection ~ 2500 1500
+Wire Wire Line
+	2500 1500 3050 1500
+Wire Wire Line
+	3050 1550 3050 1500
+Connection ~ 3050 1500
+Wire Wire Line
+	3050 1500 4050 1500
+Wire Wire Line
+	2250 1900 2250 2100
+Connection ~ 2250 1900
+Wire Wire Line
+	2250 1900 2500 1900
+Wire Wire Line
+	3050 1850 3050 2100
+Connection ~ 3050 2100
+Wire Wire Line
+	3050 2100 3400 2100
+Wire Wire Line
+	2550 2100 2550 2500
+Wire Wire Line
+	2550 2500 2600 2500
+Connection ~ 2550 2100
+Wire Wire Line
+	2550 2100 2600 2100
+Wire Wire Line
+	2950 2100 2950 2500
+Wire Wire Line
+	2950 2500 2900 2500
+Connection ~ 2950 2100
+Wire Wire Line
+	2950 2100 3050 2100
+$Comp
+L ao_symbols:TL074 U?
+U 1 1 612A770A
+P 6200 2200
+AR Path="/611AD09D/612A770A" Ref="U?"  Part="1" 
+AR Path="/611B137B/612A770A" Ref="U6"  Part="1" 
+F 0 "U6" H 6200 1833 50  0000 C CNN
+F 1 "TL074" H 6200 1924 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 6150 2300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6250 2400 50  0001 C CNN
+F 4 "Tayda" H 6200 2200 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 6200 2200 50  0001 C CNN "SKU"
+	1    6200 2200
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A7710
+P 5000 1700
+AR Path="/611AD09D/612A7710" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A7710" Ref="C128"  Part="1" 
+F 0 "C128" H 5115 1746 50  0000 L CNN
+F 1 "2.2n" H 5115 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5038 1550 50  0001 C CNN
+F 3 "~" H 5000 1700 50  0001 C CNN
+	1    5000 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A7716
+P 4500 1700
+AR Path="/611AD09D/612A7716" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A7716" Ref="C126"  Part="1" 
+F 0 "C126" H 4615 1746 50  0000 L CNN
+F 1 "4.7n" H 4615 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 4538 1550 50  0001 C CNN
+F 3 "~" H 4500 1700 50  0001 C CNN
+	1    4500 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A771C
+P 5250 2100
+AR Path="/611AD09D/612A771C" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A771C" Ref="C130"  Part="1" 
+F 0 "C130" V 4998 2100 50  0000 C CNN
+F 1 "4.7n" V 5089 2100 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 1950 50  0001 C CNN
+F 3 "~" H 5250 2100 50  0001 C CNN
+	1    5250 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A7722
+P 5250 2500
+AR Path="/611AD09D/612A7722" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A7722" Ref="C131"  Part="1" 
+F 0 "C131" V 4998 2500 50  0000 C CNN
+F 1 "2.2n" V 5089 2500 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 2350 50  0001 C CNN
+F 3 "~" H 5250 2500 50  0001 C CNN
+	1    5250 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A7728
+P 5550 1700
+AR Path="/611AD09D/612A7728" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A7728" Ref="R93"  Part="1" 
+F 0 "R93" H 5620 1746 50  0000 L CNN
+F 1 "47k" H 5620 1655 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5480 1700 50  0001 C CNN
+F 3 "~" H 5550 1700 50  0001 C CNN
+	1    5550 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A772E
+P 4750 2300
+AR Path="/611AD09D/612A772E" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A772E" Ref="R91"  Part="1" 
+F 0 "R91" H 4820 2346 50  0000 L CNN
+F 1 "1.8k" H 4820 2255 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4680 2300 50  0001 C CNN
+F 3 "~" H 4750 2300 50  0001 C CNN
+	1    4750 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A7734
+P 4300 2100
+AR Path="/611AD09D/612A7734" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A7734" Ref="R89"  Part="1" 
+F 0 "R89" V 4093 2100 50  0000 C CNN
+F 1 "22k" V 4184 2100 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4230 2100 50  0001 C CNN
+F 3 "~" H 4300 2100 50  0001 C CNN
+	1    4300 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A773A
+P 4750 2500
+AR Path="/611AD09D/612A773A" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A773A" Ref="#PWR079"  Part="1" 
+F 0 "#PWR079" H 4750 2250 50  0001 C CNN
+F 1 "GND" H 4755 2327 50  0000 C CNN
+F 2 "" H 4750 2500 50  0001 C CNN
+F 3 "" H 4750 2500 50  0001 C CNN
+	1    4750 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A7740
+P 5800 2400
+AR Path="/611AD09D/612A7740" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A7740" Ref="#PWR081"  Part="1" 
+F 0 "#PWR081" H 5800 2150 50  0001 C CNN
+F 1 "GND" H 5805 2227 50  0000 C CNN
+F 2 "" H 5800 2400 50  0001 C CNN
+F 3 "" H 5800 2400 50  0001 C CNN
+	1    5800 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 2100 4750 2100
+Wire Wire Line
+	5400 2100 5450 2100
+Connection ~ 4750 2100
+Wire Wire Line
+	4750 2100 5050 2100
+Wire Wire Line
+	5900 2300 5800 2300
+Wire Wire Line
+	5800 2300 5800 2400
+Wire Wire Line
+	4750 2150 4750 2100
+Wire Wire Line
+	4750 2450 4750 2500
+Wire Wire Line
+	4500 1850 4500 1900
+Wire Wire Line
+	4500 1900 4750 1900
+Wire Wire Line
+	5000 1900 5000 1850
+Wire Wire Line
+	4500 1550 4500 1500
+Wire Wire Line
+	4500 1500 5000 1500
+Wire Wire Line
+	6550 2200 6500 2200
+Wire Wire Line
+	5000 1550 5000 1500
+Connection ~ 5000 1500
+Wire Wire Line
+	5000 1500 5550 1500
+Wire Wire Line
+	5550 1550 5550 1500
+Connection ~ 5550 1500
+Wire Wire Line
+	5550 1500 6550 1500
+Wire Wire Line
+	4750 1900 4750 2100
+Connection ~ 4750 1900
+Wire Wire Line
+	4750 1900 5000 1900
+Wire Wire Line
+	5550 1850 5550 2100
+Connection ~ 5550 2100
+Wire Wire Line
+	5550 2100 5900 2100
+Wire Wire Line
+	5050 2100 5050 2500
+Wire Wire Line
+	5050 2500 5100 2500
+Connection ~ 5050 2100
+Wire Wire Line
+	5050 2100 5100 2100
+Wire Wire Line
+	5450 2100 5450 2500
+Wire Wire Line
+	5450 2500 5400 2500
+Connection ~ 5450 2100
+Wire Wire Line
+	5450 2100 5550 2100
+Wire Wire Line
+	4150 2100 4050 2100
+Connection ~ 4050 2100
+Wire Wire Line
+	4050 2100 4050 2200
+Wire Wire Line
+	6550 1500 6550 2200
+Wire Wire Line
+	6650 2200 6550 2200
+Connection ~ 6550 2200
+Text HLabel 6650 2200 2    50   Output ~ 0
+ODD
+$Comp
+L ao_symbols:TL074 U?
+U 3 1 612A7792
+P 3700 3700
+AR Path="/611AD09D/612A7792" Ref="U?"  Part="3" 
+AR Path="/611B137B/612A7792" Ref="U6"  Part="3" 
+F 0 "U6" H 3700 3333 50  0000 C CNN
+F 1 "TL074" H 3700 3424 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3650 3800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3750 3900 50  0001 C CNN
+F 4 "Tayda" H 3700 3700 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 3700 3700 50  0001 C CNN "SKU"
+	3    3700 3700
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A7798
+P 2500 3200
+AR Path="/611AD09D/612A7798" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A7798" Ref="C121"  Part="1" 
+F 0 "C121" H 2615 3246 50  0000 L CNN
+F 1 "DNF" H 2615 3155 50  0000 L CNN
+F 2 "ysFFB:C_DNF_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2538 3050 50  0001 C CNN
+F 3 "~" H 2500 3200 50  0001 C CNN
+	1    2500 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A779E
+P 2000 3200
+AR Path="/611AD09D/612A779E" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A779E" Ref="C119"  Part="1" 
+F 0 "C119" H 2115 3246 50  0000 L CNN
+F 1 "4.7n" H 2115 3155 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2038 3050 50  0001 C CNN
+F 3 "~" H 2000 3200 50  0001 C CNN
+	1    2000 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A77A4
+P 2750 3600
+AR Path="/611AD09D/612A77A4" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A77A4" Ref="C124"  Part="1" 
+F 0 "C124" V 2498 3600 50  0000 C CNN
+F 1 "4.7n" V 2589 3600 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 3450 50  0001 C CNN
+F 3 "~" H 2750 3600 50  0001 C CNN
+	1    2750 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A77AA
+P 2750 4000
+AR Path="/611AD09D/612A77AA" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A77AA" Ref="C125"  Part="1" 
+F 0 "C125" V 2498 4000 50  0000 C CNN
+F 1 "DNF" V 2589 4000 50  0000 C CNN
+F 2 "ysFFB:C_DNF_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 3850 50  0001 C CNN
+F 3 "~" H 2750 4000 50  0001 C CNN
+	1    2750 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A77B0
+P 3050 3200
+AR Path="/611AD09D/612A77B0" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A77B0" Ref="R88"  Part="1" 
+F 0 "R88" H 3120 3246 50  0000 L CNN
+F 1 "47k" H 3120 3155 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 3200 50  0001 C CNN
+F 3 "~" H 3050 3200 50  0001 C CNN
+	1    3050 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A77B6
+P 2250 3800
+AR Path="/611AD09D/612A77B6" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A77B6" Ref="R86"  Part="1" 
+F 0 "R86" H 2320 3846 50  0000 L CNN
+F 1 "1.8k" H 2320 3755 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2180 3800 50  0001 C CNN
+F 3 "~" H 2250 3800 50  0001 C CNN
+	1    2250 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A77BC
+P 1800 3600
+AR Path="/611AD09D/612A77BC" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A77BC" Ref="R84"  Part="1" 
+F 0 "R84" V 1593 3600 50  0000 C CNN
+F 1 "22k" V 1684 3600 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1730 3600 50  0001 C CNN
+F 3 "~" H 1800 3600 50  0001 C CNN
+	1    1800 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A77C2
+P 2250 4000
+AR Path="/611AD09D/612A77C2" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A77C2" Ref="#PWR076"  Part="1" 
+F 0 "#PWR076" H 2250 3750 50  0001 C CNN
+F 1 "GND" H 2255 3827 50  0000 C CNN
+F 2 "" H 2250 4000 50  0001 C CNN
+F 3 "" H 2250 4000 50  0001 C CNN
+	1    2250 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A77C8
+P 3300 3900
+AR Path="/611AD09D/612A77C8" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A77C8" Ref="#PWR078"  Part="1" 
+F 0 "#PWR078" H 3300 3650 50  0001 C CNN
+F 1 "GND" H 3305 3727 50  0000 C CNN
+F 2 "" H 3300 3900 50  0001 C CNN
+F 3 "" H 3300 3900 50  0001 C CNN
+	1    3300 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 3600 2250 3600
+Wire Wire Line
+	2900 3600 2950 3600
+Connection ~ 2250 3600
+Wire Wire Line
+	2250 3600 2550 3600
+Wire Wire Line
+	3400 3800 3300 3800
+Wire Wire Line
+	3300 3800 3300 3900
+Wire Wire Line
+	2250 3650 2250 3600
+Wire Wire Line
+	2250 3950 2250 4000
+Wire Wire Line
+	2000 3350 2000 3400
+Wire Wire Line
+	2000 3400 2250 3400
+Wire Wire Line
+	2500 3400 2500 3350
+Wire Wire Line
+	2000 3050 2000 3000
+Wire Wire Line
+	2000 3000 2500 3000
+Wire Wire Line
+	4050 3000 4050 3600
+Wire Wire Line
+	4050 3700 4000 3700
+Wire Wire Line
+	2500 3050 2500 3000
+Connection ~ 2500 3000
+Wire Wire Line
+	2500 3000 3050 3000
+Wire Wire Line
+	3050 3050 3050 3000
+Connection ~ 3050 3000
+Wire Wire Line
+	3050 3000 4050 3000
+Wire Wire Line
+	2250 3400 2250 3600
+Connection ~ 2250 3400
+Wire Wire Line
+	2250 3400 2500 3400
+Wire Wire Line
+	3050 3350 3050 3600
+Connection ~ 3050 3600
+Wire Wire Line
+	3050 3600 3400 3600
+Wire Wire Line
+	2550 3600 2550 4000
+Wire Wire Line
+	2550 4000 2600 4000
+Connection ~ 2550 3600
+Wire Wire Line
+	2550 3600 2600 3600
+Wire Wire Line
+	2950 3600 2950 4000
+Wire Wire Line
+	2950 4000 2900 4000
+Connection ~ 2950 3600
+Wire Wire Line
+	2950 3600 3050 3600
+$Comp
+L ao_symbols:TL074 U?
+U 4 1 612A77F3
+P 6200 3700
+AR Path="/611AD09D/612A77F3" Ref="U?"  Part="4" 
+AR Path="/611B137B/612A77F3" Ref="U6"  Part="4" 
+F 0 "U6" H 6200 3333 50  0000 C CNN
+F 1 "TL074" H 6200 3424 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 6150 3800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6250 3900 50  0001 C CNN
+F 4 "Tayda" H 6200 3700 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 6200 3700 50  0001 C CNN "SKU"
+	4    6200 3700
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A77F9
+P 5000 3200
+AR Path="/611AD09D/612A77F9" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A77F9" Ref="C129"  Part="1" 
+F 0 "C129" H 5115 3246 50  0000 L CNN
+F 1 "DNF" H 5115 3155 50  0000 L CNN
+F 2 "ysFFB:C_DNF_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5038 3050 50  0001 C CNN
+F 3 "~" H 5000 3200 50  0001 C CNN
+	1    5000 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A77FF
+P 4500 3200
+AR Path="/611AD09D/612A77FF" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A77FF" Ref="C127"  Part="1" 
+F 0 "C127" H 4615 3246 50  0000 L CNN
+F 1 "4.7n" H 4615 3155 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 4538 3050 50  0001 C CNN
+F 3 "~" H 4500 3200 50  0001 C CNN
+	1    4500 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A7805
+P 5250 3600
+AR Path="/611AD09D/612A7805" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A7805" Ref="C132"  Part="1" 
+F 0 "C132" V 4998 3600 50  0000 C CNN
+F 1 "4.7n" V 5089 3600 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 3450 50  0001 C CNN
+F 3 "~" H 5250 3600 50  0001 C CNN
+	1    5250 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 612A780B
+P 5250 4000
+AR Path="/611AD09D/612A780B" Ref="C?"  Part="1" 
+AR Path="/611B137B/612A780B" Ref="C133"  Part="1" 
+F 0 "C133" V 4998 4000 50  0000 C CNN
+F 1 "DNF" V 5089 4000 50  0000 C CNN
+F 2 "ysFFB:C_DNF_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 3850 50  0001 C CNN
+F 3 "~" H 5250 4000 50  0001 C CNN
+	1    5250 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A7811
+P 5550 3200
+AR Path="/611AD09D/612A7811" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A7811" Ref="R94"  Part="1" 
+F 0 "R94" H 5620 3246 50  0000 L CNN
+F 1 "47k" H 5620 3155 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5480 3200 50  0001 C CNN
+F 3 "~" H 5550 3200 50  0001 C CNN
+	1    5550 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A7817
+P 4750 3800
+AR Path="/611AD09D/612A7817" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A7817" Ref="R92"  Part="1" 
+F 0 "R92" H 4820 3846 50  0000 L CNN
+F 1 "1.8k" H 4820 3755 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4680 3800 50  0001 C CNN
+F 3 "~" H 4750 3800 50  0001 C CNN
+	1    4750 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 612A781D
+P 4300 3600
+AR Path="/611AD09D/612A781D" Ref="R?"  Part="1" 
+AR Path="/611B137B/612A781D" Ref="R90"  Part="1" 
+F 0 "R90" V 4093 3600 50  0000 C CNN
+F 1 "22k" V 4184 3600 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4230 3600 50  0001 C CNN
+F 3 "~" H 4300 3600 50  0001 C CNN
+	1    4300 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A7823
+P 4750 4000
+AR Path="/611AD09D/612A7823" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A7823" Ref="#PWR080"  Part="1" 
+F 0 "#PWR080" H 4750 3750 50  0001 C CNN
+F 1 "GND" H 4755 3827 50  0000 C CNN
+F 2 "" H 4750 4000 50  0001 C CNN
+F 3 "" H 4750 4000 50  0001 C CNN
+	1    4750 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 612A7829
+P 5800 3900
+AR Path="/611AD09D/612A7829" Ref="#PWR?"  Part="1" 
+AR Path="/611B137B/612A7829" Ref="#PWR082"  Part="1" 
+F 0 "#PWR082" H 5800 3650 50  0001 C CNN
+F 1 "GND" H 5805 3727 50  0000 C CNN
+F 2 "" H 5800 3900 50  0001 C CNN
+F 3 "" H 5800 3900 50  0001 C CNN
+	1    5800 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 3600 4750 3600
+Wire Wire Line
+	5400 3600 5450 3600
+Connection ~ 4750 3600
+Wire Wire Line
+	4750 3600 5050 3600
+Wire Wire Line
+	5900 3800 5800 3800
+Wire Wire Line
+	5800 3800 5800 3900
+Wire Wire Line
+	4750 3650 4750 3600
+Wire Wire Line
+	4750 3950 4750 4000
+Wire Wire Line
+	4500 3350 4500 3400
+Wire Wire Line
+	4500 3400 4750 3400
+Wire Wire Line
+	5000 3400 5000 3350
+Wire Wire Line
+	4500 3050 4500 3000
+Wire Wire Line
+	4500 3000 5000 3000
+Wire Wire Line
+	6550 3700 6500 3700
+Wire Wire Line
+	5000 3050 5000 3000
+Connection ~ 5000 3000
+Wire Wire Line
+	5000 3000 5550 3000
+Wire Wire Line
+	5550 3050 5550 3000
+Connection ~ 5550 3000
+Wire Wire Line
+	5550 3000 6550 3000
+Wire Wire Line
+	4750 3400 4750 3600
+Connection ~ 4750 3400
+Wire Wire Line
+	4750 3400 5000 3400
+Wire Wire Line
+	5550 3350 5550 3600
+Connection ~ 5550 3600
+Wire Wire Line
+	5550 3600 5900 3600
+Wire Wire Line
+	5050 3600 5050 4000
+Wire Wire Line
+	5050 4000 5100 4000
+Connection ~ 5050 3600
+Wire Wire Line
+	5050 3600 5100 3600
+Wire Wire Line
+	5450 3600 5450 4000
+Wire Wire Line
+	5450 4000 5400 4000
+Connection ~ 5450 3600
+Wire Wire Line
+	5450 3600 5550 3600
+Wire Wire Line
+	4150 3600 4050 3600
+Connection ~ 4050 3600
+Wire Wire Line
+	4050 3600 4050 3700
+Wire Wire Line
+	6550 3000 6550 3700
+Wire Wire Line
+	6650 3700 6550 3700
+Connection ~ 6550 3700
+Text HLabel 6650 3700 2    50   Output ~ 0
+EVEN
+Wire Wire Line
+	1650 2100 1600 2100
+Wire Wire Line
+	1600 2100 1600 2850
+Wire Wire Line
+	1600 3600 1650 3600
+Wire Wire Line
+	1600 2850 1400 2850
+Connection ~ 1600 2850
+Wire Wire Line
+	1600 2850 1600 3600
+Text HLabel 1400 2850 0    50   Input ~ 0
+IN
+Text Notes 2000 1450 0    50   ~ 0
+BP 9 (2600 Hz)
+Text Notes 2000 2950 0    50   ~ 0
+BP 10 (3800 Hz)
+$EndSCHEMATC

@@ -1,0 +1,753 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 2 9
+Title "Fixed Filter Bank"
+Date "2021-08-10"
+Rev ""
+Comp "Rich Holmes / Analog Output"
+Comment1 "or neighboring rights to this work. Published from United States."
+Comment2 "To the extent possible under law, Richard Holmes has waived all copyright and related "
+Comment3 "Based on design by Yves Usson"
+Comment4 ""
+$EndDescr
+$Comp
+L ao_symbols:TL074 U1
+U 2 1 611C5F34
+P 3700 2200
+F 0 "U1" H 3700 1833 50  0000 C CNN
+F 1 "TL074" H 3700 1924 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3650 2300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3750 2400 50  0001 C CNN
+F 4 "Tayda" H 3700 2200 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 3700 2200 50  0001 C CNN "SKU"
+	2    3700 2200
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C27
+U 1 1 611C68B1
+P 2500 1700
+F 0 "C27" H 2615 1746 50  0000 L CNN
+F 1 "22n" H 2615 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2538 1550 50  0001 C CNN
+F 3 "~" H 2500 1700 50  0001 C CNN
+	1    2500 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C29
+U 1 1 611C94E4
+P 2750 2100
+F 0 "C29" V 2498 2100 50  0000 C CNN
+F 1 "120n" V 2589 2100 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 1950 50  0001 C CNN
+F 3 "~" H 2750 2100 50  0001 C CNN
+	1    2750 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C30
+U 1 1 611C99B2
+P 2750 2500
+F 0 "C30" V 2498 2500 50  0000 C CNN
+F 1 "22n" V 2589 2500 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 2350 50  0001 C CNN
+F 3 "~" H 2750 2500 50  0001 C CNN
+	1    2750 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 611C9E14
+P 3050 1700
+F 0 "R14" H 3120 1746 50  0000 L CNN
+F 1 "47k" H 3120 1655 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 1700 50  0001 C CNN
+F 3 "~" H 3050 1700 50  0001 C CNN
+	1    3050 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 611CA984
+P 2250 2300
+F 0 "R12" H 2320 2346 50  0000 L CNN
+F 1 "1.8k" H 2320 2255 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2180 2300 50  0001 C CNN
+F 3 "~" H 2250 2300 50  0001 C CNN
+	1    2250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 611CB21E
+P 1800 2100
+F 0 "R10" V 1593 2100 50  0000 C CNN
+F 1 "22k" V 1684 2100 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1730 2100 50  0001 C CNN
+F 3 "~" H 1800 2100 50  0001 C CNN
+	1    1800 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR031
+U 1 1 611CB8A6
+P 2250 2500
+F 0 "#PWR031" H 2250 2250 50  0001 C CNN
+F 1 "GND" H 2255 2327 50  0000 C CNN
+F 2 "" H 2250 2500 50  0001 C CNN
+F 3 "" H 2250 2500 50  0001 C CNN
+	1    2250 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR033
+U 1 1 611CBA56
+P 3300 2400
+F 0 "#PWR033" H 3300 2150 50  0001 C CNN
+F 1 "GND" H 3305 2227 50  0000 C CNN
+F 2 "" H 3300 2400 50  0001 C CNN
+F 3 "" H 3300 2400 50  0001 C CNN
+	1    3300 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 2100 2250 2100
+Wire Wire Line
+	2900 2100 2950 2100
+Connection ~ 2250 2100
+Wire Wire Line
+	2250 2100 2550 2100
+Wire Wire Line
+	3400 2300 3300 2300
+Wire Wire Line
+	3300 2300 3300 2400
+Wire Wire Line
+	2250 2150 2250 2100
+Wire Wire Line
+	2250 2450 2250 2500
+Wire Wire Line
+	2000 1850 2000 1900
+Wire Wire Line
+	2000 1900 2250 1900
+Wire Wire Line
+	2500 1900 2500 1850
+Wire Wire Line
+	2000 1550 2000 1500
+Wire Wire Line
+	2000 1500 2500 1500
+Wire Wire Line
+	4050 1500 4050 2100
+Wire Wire Line
+	4050 2200 4000 2200
+Wire Wire Line
+	2500 1550 2500 1500
+Connection ~ 2500 1500
+Wire Wire Line
+	2500 1500 3050 1500
+Wire Wire Line
+	3050 1550 3050 1500
+Connection ~ 3050 1500
+Wire Wire Line
+	3050 1500 4050 1500
+Wire Wire Line
+	2250 1900 2250 2100
+Connection ~ 2250 1900
+Wire Wire Line
+	2250 1900 2500 1900
+Wire Wire Line
+	3050 1850 3050 2100
+Connection ~ 3050 2100
+Wire Wire Line
+	3050 2100 3400 2100
+Wire Wire Line
+	2550 2100 2550 2500
+Wire Wire Line
+	2550 2500 2600 2500
+Connection ~ 2550 2100
+Wire Wire Line
+	2550 2100 2600 2100
+Wire Wire Line
+	2950 2100 2950 2500
+Wire Wire Line
+	2950 2500 2900 2500
+Connection ~ 2950 2100
+Wire Wire Line
+	2950 2100 3050 2100
+$Comp
+L ao_symbols:TL074 U1
+U 1 1 611D5B05
+P 6200 2200
+F 0 "U1" H 6200 1833 50  0000 C CNN
+F 1 "TL074" H 6200 1924 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 6150 2300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6250 2400 50  0001 C CNN
+F 4 "Tayda" H 6200 2200 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 6200 2200 50  0001 C CNN "SKU"
+	1    6200 2200
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C35
+U 1 1 611D5B0B
+P 5000 1700
+F 0 "C35" H 5115 1746 50  0000 L CNN
+F 1 "22n" H 5115 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5038 1550 50  0001 C CNN
+F 3 "~" H 5000 1700 50  0001 C CNN
+	1    5000 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C33
+U 1 1 611D5B11
+P 4500 1700
+F 0 "C33" H 4615 1746 50  0000 L CNN
+F 1 "120n" H 4615 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 4538 1550 50  0001 C CNN
+F 3 "~" H 4500 1700 50  0001 C CNN
+	1    4500 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C37
+U 1 1 611D5B17
+P 5250 2100
+F 0 "C37" V 4998 2100 50  0000 C CNN
+F 1 "120n" V 5089 2100 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 1950 50  0001 C CNN
+F 3 "~" H 5250 2100 50  0001 C CNN
+	1    5250 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C38
+U 1 1 611D5B1D
+P 5250 2500
+F 0 "C38" V 4998 2500 50  0000 C CNN
+F 1 "22n" V 5089 2500 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 2350 50  0001 C CNN
+F 3 "~" H 5250 2500 50  0001 C CNN
+	1    5250 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R20
+U 1 1 611D5B23
+P 5550 1700
+F 0 "R20" H 5620 1746 50  0000 L CNN
+F 1 "47k" H 5620 1655 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5480 1700 50  0001 C CNN
+F 3 "~" H 5550 1700 50  0001 C CNN
+	1    5550 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 611D5B29
+P 4750 2300
+F 0 "R18" H 4820 2346 50  0000 L CNN
+F 1 "1.8k" H 4820 2255 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4680 2300 50  0001 C CNN
+F 3 "~" H 4750 2300 50  0001 C CNN
+	1    4750 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 611D5B2F
+P 4300 2100
+F 0 "R16" V 4093 2100 50  0000 C CNN
+F 1 "22k" V 4184 2100 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4230 2100 50  0001 C CNN
+F 3 "~" H 4300 2100 50  0001 C CNN
+	1    4300 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR035
+U 1 1 611D5B35
+P 4750 2500
+F 0 "#PWR035" H 4750 2250 50  0001 C CNN
+F 1 "GND" H 4755 2327 50  0000 C CNN
+F 2 "" H 4750 2500 50  0001 C CNN
+F 3 "" H 4750 2500 50  0001 C CNN
+	1    4750 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR037
+U 1 1 611D5B3B
+P 5800 2400
+F 0 "#PWR037" H 5800 2150 50  0001 C CNN
+F 1 "GND" H 5805 2227 50  0000 C CNN
+F 2 "" H 5800 2400 50  0001 C CNN
+F 3 "" H 5800 2400 50  0001 C CNN
+	1    5800 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 2100 4750 2100
+Wire Wire Line
+	5400 2100 5450 2100
+Connection ~ 4750 2100
+Wire Wire Line
+	4750 2100 5050 2100
+Wire Wire Line
+	5900 2300 5800 2300
+Wire Wire Line
+	5800 2300 5800 2400
+Wire Wire Line
+	4750 2150 4750 2100
+Wire Wire Line
+	4750 2450 4750 2500
+Wire Wire Line
+	4500 1850 4500 1900
+Wire Wire Line
+	4500 1900 4750 1900
+Wire Wire Line
+	5000 1900 5000 1850
+Wire Wire Line
+	4500 1550 4500 1500
+Wire Wire Line
+	4500 1500 5000 1500
+Wire Wire Line
+	6550 2200 6500 2200
+Wire Wire Line
+	5000 1550 5000 1500
+Connection ~ 5000 1500
+Wire Wire Line
+	5000 1500 5550 1500
+Wire Wire Line
+	5550 1550 5550 1500
+Connection ~ 5550 1500
+Wire Wire Line
+	5550 1500 6550 1500
+Wire Wire Line
+	4750 1900 4750 2100
+Connection ~ 4750 1900
+Wire Wire Line
+	4750 1900 5000 1900
+Wire Wire Line
+	5550 1850 5550 2100
+Connection ~ 5550 2100
+Wire Wire Line
+	5550 2100 5900 2100
+Wire Wire Line
+	5050 2100 5050 2500
+Wire Wire Line
+	5050 2500 5100 2500
+Connection ~ 5050 2100
+Wire Wire Line
+	5050 2100 5100 2100
+Wire Wire Line
+	5450 2100 5450 2500
+Wire Wire Line
+	5450 2500 5400 2500
+Connection ~ 5450 2100
+Wire Wire Line
+	5450 2100 5550 2100
+Wire Wire Line
+	4150 2100 4050 2100
+Connection ~ 4050 2100
+Wire Wire Line
+	4050 2100 4050 2200
+Wire Wire Line
+	6550 1500 6550 2200
+Wire Wire Line
+	6650 2200 6550 2200
+Connection ~ 6550 2200
+$Comp
+L ao_symbols:TL074 U1
+U 3 1 611F150F
+P 3700 3700
+F 0 "U1" H 3700 3333 50  0000 C CNN
+F 1 "TL074" H 3700 3424 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 3650 3800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3750 3900 50  0001 C CNN
+F 4 "Tayda" H 3700 3700 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 3700 3700 50  0001 C CNN "SKU"
+	3    3700 3700
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C28
+U 1 1 611F1515
+P 2500 3200
+F 0 "C28" H 2615 3246 50  0000 L CNN
+F 1 "15n" H 2615 3155 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2538 3050 50  0001 C CNN
+F 3 "~" H 2500 3200 50  0001 C CNN
+	1    2500 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C26
+U 1 1 611F151B
+P 2000 3200
+F 0 "C26" H 2115 3246 50  0000 L CNN
+F 1 "82n" H 2115 3155 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2038 3050 50  0001 C CNN
+F 3 "~" H 2000 3200 50  0001 C CNN
+	1    2000 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C31
+U 1 1 611F1521
+P 2750 3600
+F 0 "C31" V 2498 3600 50  0000 C CNN
+F 1 "82n" V 2589 3600 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 3450 50  0001 C CNN
+F 3 "~" H 2750 3600 50  0001 C CNN
+	1    2750 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C32
+U 1 1 611F1527
+P 2750 4000
+F 0 "C32" V 2498 4000 50  0000 C CNN
+F 1 "15n" V 2589 4000 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2788 3850 50  0001 C CNN
+F 3 "~" H 2750 4000 50  0001 C CNN
+	1    2750 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 611F152D
+P 3050 3200
+F 0 "R15" H 3120 3246 50  0000 L CNN
+F 1 "47k" H 3120 3155 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 3200 50  0001 C CNN
+F 3 "~" H 3050 3200 50  0001 C CNN
+	1    3050 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R13
+U 1 1 611F1533
+P 2250 3800
+F 0 "R13" H 2320 3846 50  0000 L CNN
+F 1 "1.8k" H 2320 3755 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2180 3800 50  0001 C CNN
+F 3 "~" H 2250 3800 50  0001 C CNN
+	1    2250 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R11
+U 1 1 611F1539
+P 1800 3600
+F 0 "R11" V 1593 3600 50  0000 C CNN
+F 1 "22k" V 1684 3600 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1730 3600 50  0001 C CNN
+F 3 "~" H 1800 3600 50  0001 C CNN
+	1    1800 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR032
+U 1 1 611F153F
+P 2250 4000
+F 0 "#PWR032" H 2250 3750 50  0001 C CNN
+F 1 "GND" H 2255 3827 50  0000 C CNN
+F 2 "" H 2250 4000 50  0001 C CNN
+F 3 "" H 2250 4000 50  0001 C CNN
+	1    2250 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR034
+U 1 1 611F1545
+P 3300 3900
+F 0 "#PWR034" H 3300 3650 50  0001 C CNN
+F 1 "GND" H 3305 3727 50  0000 C CNN
+F 2 "" H 3300 3900 50  0001 C CNN
+F 3 "" H 3300 3900 50  0001 C CNN
+	1    3300 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 3600 2250 3600
+Wire Wire Line
+	2900 3600 2950 3600
+Connection ~ 2250 3600
+Wire Wire Line
+	2250 3600 2550 3600
+Wire Wire Line
+	3400 3800 3300 3800
+Wire Wire Line
+	3300 3800 3300 3900
+Wire Wire Line
+	2250 3650 2250 3600
+Wire Wire Line
+	2250 3950 2250 4000
+Wire Wire Line
+	2000 3350 2000 3400
+Wire Wire Line
+	2000 3400 2250 3400
+Wire Wire Line
+	2500 3400 2500 3350
+Wire Wire Line
+	2000 3050 2000 3000
+Wire Wire Line
+	2000 3000 2500 3000
+Wire Wire Line
+	4050 3000 4050 3600
+Wire Wire Line
+	4050 3700 4000 3700
+Wire Wire Line
+	2500 3050 2500 3000
+Connection ~ 2500 3000
+Wire Wire Line
+	2500 3000 3050 3000
+Wire Wire Line
+	3050 3050 3050 3000
+Connection ~ 3050 3000
+Wire Wire Line
+	3050 3000 4050 3000
+Wire Wire Line
+	2250 3400 2250 3600
+Connection ~ 2250 3400
+Wire Wire Line
+	2250 3400 2500 3400
+Wire Wire Line
+	3050 3350 3050 3600
+Connection ~ 3050 3600
+Wire Wire Line
+	3050 3600 3400 3600
+Wire Wire Line
+	2550 3600 2550 4000
+Wire Wire Line
+	2550 4000 2600 4000
+Connection ~ 2550 3600
+Wire Wire Line
+	2550 3600 2600 3600
+Wire Wire Line
+	2950 3600 2950 4000
+Wire Wire Line
+	2950 4000 2900 4000
+Connection ~ 2950 3600
+Wire Wire Line
+	2950 3600 3050 3600
+$Comp
+L ao_symbols:TL074 U1
+U 4 1 611F1570
+P 6200 3700
+F 0 "U1" H 6200 3333 50  0000 C CNN
+F 1 "TL074" H 6200 3424 50  0000 C CNN
+F 2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" H 6150 3800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6250 3900 50  0001 C CNN
+F 4 "Tayda" H 6200 3700 50  0001 C CNN "Vendor"
+F 5 "A-1138" H 6200 3700 50  0001 C CNN "SKU"
+	4    6200 3700
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C36
+U 1 1 611F1576
+P 5000 3200
+F 0 "C36" H 5115 3246 50  0000 L CNN
+F 1 "15n" H 5115 3155 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5038 3050 50  0001 C CNN
+F 3 "~" H 5000 3200 50  0001 C CNN
+	1    5000 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C34
+U 1 1 611F157C
+P 4500 3200
+F 0 "C34" H 4615 3246 50  0000 L CNN
+F 1 "82n" H 4615 3155 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 4538 3050 50  0001 C CNN
+F 3 "~" H 4500 3200 50  0001 C CNN
+	1    4500 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C39
+U 1 1 611F1582
+P 5250 3600
+F 0 "C39" V 4998 3600 50  0000 C CNN
+F 1 "82n" V 5089 3600 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 3450 50  0001 C CNN
+F 3 "~" H 5250 3600 50  0001 C CNN
+	1    5250 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C40
+U 1 1 611F1588
+P 5250 4000
+F 0 "C40" V 4998 4000 50  0000 C CNN
+F 1 "15n" V 5089 4000 50  0000 C CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 5288 3850 50  0001 C CNN
+F 3 "~" H 5250 4000 50  0001 C CNN
+	1    5250 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R21
+U 1 1 611F158E
+P 5550 3200
+F 0 "R21" H 5620 3246 50  0000 L CNN
+F 1 "47k" H 5620 3155 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5480 3200 50  0001 C CNN
+F 3 "~" H 5550 3200 50  0001 C CNN
+	1    5550 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R19
+U 1 1 611F1594
+P 4750 3800
+F 0 "R19" H 4820 3846 50  0000 L CNN
+F 1 "1.8k" H 4820 3755 50  0000 L CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4680 3800 50  0001 C CNN
+F 3 "~" H 4750 3800 50  0001 C CNN
+	1    4750 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 611F159A
+P 4300 3600
+F 0 "R17" V 4093 3600 50  0000 C CNN
+F 1 "22k" V 4184 3600 50  0000 C CNN
+F 2 "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4230 3600 50  0001 C CNN
+F 3 "~" H 4300 3600 50  0001 C CNN
+	1    4300 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR036
+U 1 1 611F15A0
+P 4750 4000
+F 0 "#PWR036" H 4750 3750 50  0001 C CNN
+F 1 "GND" H 4755 3827 50  0000 C CNN
+F 2 "" H 4750 4000 50  0001 C CNN
+F 3 "" H 4750 4000 50  0001 C CNN
+	1    4750 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR038
+U 1 1 611F15A6
+P 5800 3900
+F 0 "#PWR038" H 5800 3650 50  0001 C CNN
+F 1 "GND" H 5805 3727 50  0000 C CNN
+F 2 "" H 5800 3900 50  0001 C CNN
+F 3 "" H 5800 3900 50  0001 C CNN
+	1    5800 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 3600 4750 3600
+Wire Wire Line
+	5400 3600 5450 3600
+Connection ~ 4750 3600
+Wire Wire Line
+	4750 3600 5050 3600
+Wire Wire Line
+	5900 3800 5800 3800
+Wire Wire Line
+	5800 3800 5800 3900
+Wire Wire Line
+	4750 3650 4750 3600
+Wire Wire Line
+	4750 3950 4750 4000
+Wire Wire Line
+	4500 3350 4500 3400
+Wire Wire Line
+	4500 3400 4750 3400
+Wire Wire Line
+	5000 3400 5000 3350
+Wire Wire Line
+	4500 3050 4500 3000
+Wire Wire Line
+	4500 3000 5000 3000
+Wire Wire Line
+	6550 3700 6500 3700
+Wire Wire Line
+	5000 3050 5000 3000
+Connection ~ 5000 3000
+Wire Wire Line
+	5000 3000 5550 3000
+Wire Wire Line
+	5550 3050 5550 3000
+Connection ~ 5550 3000
+Wire Wire Line
+	5550 3000 6550 3000
+Wire Wire Line
+	4750 3400 4750 3600
+Connection ~ 4750 3400
+Wire Wire Line
+	4750 3400 5000 3400
+Wire Wire Line
+	5550 3350 5550 3600
+Connection ~ 5550 3600
+Wire Wire Line
+	5550 3600 5900 3600
+Wire Wire Line
+	5050 3600 5050 4000
+Wire Wire Line
+	5050 4000 5100 4000
+Connection ~ 5050 3600
+Wire Wire Line
+	5050 3600 5100 3600
+Wire Wire Line
+	5450 3600 5450 4000
+Wire Wire Line
+	5450 4000 5400 4000
+Connection ~ 5450 3600
+Wire Wire Line
+	5450 3600 5550 3600
+Wire Wire Line
+	4150 3600 4050 3600
+Connection ~ 4050 3600
+Wire Wire Line
+	4050 3600 4050 3700
+Wire Wire Line
+	6550 3000 6550 3700
+Wire Wire Line
+	6650 3700 6550 3700
+Connection ~ 6550 3700
+Wire Wire Line
+	1650 2100 1600 2100
+Wire Wire Line
+	1600 2100 1600 2850
+Wire Wire Line
+	1600 3600 1650 3600
+Wire Wire Line
+	1600 2850 1400 2850
+Connection ~ 1600 2850
+Wire Wire Line
+	1600 2850 1600 3600
+Text HLabel 1400 2850 0    50   Input ~ 0
+IN
+$Comp
+L Device:C C25
+U 1 1 611C71B6
+P 2000 1700
+F 0 "C25" H 2115 1746 50  0000 L CNN
+F 1 "120n" H 2115 1655 50  0000 L CNN
+F 2 "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" H 2038 1550 50  0001 C CNN
+F 3 "~" H 2000 1700 50  0001 C CNN
+	1    2000 1700
+	1    0    0    -1  
+$EndComp
+Text Notes 2000 1450 0    50   ~ 0
+BP 1 (125 Hz)
+Text Notes 2000 2950 0    50   ~ 0
+BP 2 (185 Hz)
+Text HLabel 6650 2200 2    50   Output ~ 0
+ODD
+Text HLabel 6650 3700 2    50   Output ~ 0
+EVEN
+$EndSCHEMATC

@@ -2,13 +2,14 @@
 
 **Untested hardware and software — Do not assume anything works!**
 
-I've chosen to use the [YuSynth Fixed Filter Bank](https://www.yusynth.net/Modular/EN/BANK/index.html)  PCB for my FFB module. However, I do think the [Serge Resonant Equalizer](https://www.elby-designs.com/webtek/cgs/serge/cgs202/cgs202.htm) is a better design in one respect. Usson's filters are tuned to the same frequencies as in the Moog 914 module, except that inexplicably he used 750 Hz instead of 700 Hz. The Moog module's tuning starts at 88 Hz for the low pass filter and 125 for the first band pass filter, and then the filter frequency ratios between adjacent bands alternate between about 1.43 and 1.40, so that consecutive even (or odd) bands have a frequency ratio of 2.0, one octave. But, from the Serge catalog description of the Resonant Equalizer,
+## Tuning
+I've chosen to use the [YuSynth Fixed Filter Bank](https://www.yusynth.net/Modular/EN/BANK/index.html) design for my FFB module. However, I do think the [Serge Resonant Equalizer](https://www.elby-designs.com/webtek/cgs/serge/cgs202/cgs202.htm) is a better design in one respect. Usson's filters are tuned to the same frequencies as in the Moog 914 module, except that inexplicably he used 750 Hz instead of 700 Hz. The Moog module's tuning starts at 88 Hz for the low pass filter and 125 for the first band pass filter, and then the filter frequency ratios between adjacent bands alternate between about 1.43 and 1.40, so that consecutive even (or odd) bands have a frequency ratio of 2.0, one octave. But, from the Serge catalog description of the Resonant Equalizer,
 
 > Except for the top and bottom frequency bands, all other bands are spaced at an interval of a major seventh. This non-standard spacing avoids the very common effect of an accentuated resonance in one key, as will be the effect from graphic equalizers with octave or third-octave spacing between bands. Spacing by octaves will reinforce a regular overtone structure for one musical key, thereby producing regularly spaced formants accenting a particular tonality. The Resonant Equalizer's band spacing are much more interesting, producing formant peaks and valleys that are similar to those in acoustic instument sounds.
 
 To me this seems a better design choice. So I've selected new values for capacitors C1a–C52b and resistors R78a–R81b to obtain a different tuning than Usson used. Specifically, the first band pass is kept at 125 Hz and the other filters are tuned at about half a minor ninth apart, frequency ratio 1.46; alternate steps are a ratio of 2.13 apart. Using half minor ninths instead of half octaves stretches the overall frequency range of the module by half an octave.
 
-New frequencies and component values, computed using the formulas in Usson's writeup, are shown below. All the capacitor values are available for polyester film caps from Tayda as of April 2021. Note that in this tuning several of the required capacitances come out to available values and for those only a single capacitor instead of two is used (saving 20 capacitors!). 
+New frequencies and component values, computed using the formulas in Usson's writeup, are shown below. All the capacitor values are available for polyester film caps from Tayda as of April 2021. Note that in this tuning several of the required capacitances come out to available values and for those only a single capacitor instead of two is used (saving 20 capacitors!). Capacitor references are for Usson's schematic.
 
 ### Low pass
 | Freq | Ref | Value | Ref | Value |
@@ -40,7 +41,7 @@ New frequencies and component values, computed using the formulas in Usson's wri
 |  | R79a | 82k Ω | R79b | 1k Ω |
 |  | R80a R81a | 12k Ω | R80b R81b | 1.8k Ω |
 
-## Capacitor BOM (C1a–C57 only)
+### Capacitor BOM (C1a–C57 only)
 | Ref | Value | Quant |
 | --- | ----- | ----- |
 | C1a, C2a, C3a, C4a | 120.0 nF | 4 |
@@ -58,4 +59,16 @@ New frequencies and component values, computed using the formulas in Usson's wri
 | C41a, C42a, C43a, C44a | 3.3 nF | 4 |
 | C50a, C50b, C53, C54, C55, C56, C57 | 1.0 nF | 7 |
 
+## PCBs
 
+I had originally planned on buying the Usson PCB and using that. I changed my mind for a combination of several reasons:
+
+- There are 14 pots and five jacks on the front panel. That would be a lot of wiring. Moreover, I decided I wanted to use slide pots, and I prefer board mounting these. So I chose to design a panel components board. There are header footprints on the Usson board which could be used to connect to the panel board, but their positions would have to be measured carefully and cannot be altered; some of the headers would have to be soldered underneath one or more slide pots. Designing my own main board allowed me to move the headers to more suitable locations, and to locate them accurately.
+
+- Usson uses a single bypass capacitor per chip, between the + and - rails. I prefer to have two caps, one from each rail to ground.
+
+- On Usson's board the components are identified by value, not by reference — and I'm changing the values for most of the components. So the assembly would be complicated and the chances of getting it wrong would be high.
+
+- Usson's PCBs have been out of stock at SynthCube for more than a month. I don't know of any other domestic suppliers.
+
+So I have designed my own version of the main board as well as a panel board. The main board layout is closely based on Usson's, with the most significant differences being the silkscreen (showing my choice of values as well as references), doubled bypass caps, relocated headers, and no MTA or MOTM power header. Unlike Usson's, my design is 2 layer — though almost everything is on one layer, except where Usson resorted to straps, and the headers for connecting to the panel board mount on the side opposite the other components.

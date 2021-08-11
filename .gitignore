@@ -14,10 +14,3 @@ Narrow
 *.rules
 *.ses
 \#*
-FILTER BANK_files
-FILTER BANK.html
-Fixed filter banks.gdsheet
-YuSynth Fixed Resonant Filter Bank Module Bare PCB_files
-YuSynth Fixed Resonant Filter Bank Module Bare PCB.html
-Obs
-YuImages
