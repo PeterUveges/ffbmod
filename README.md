@@ -71,4 +71,4 @@ I had originally planned on buying the Usson PCB and using that. I changed my mi
 
 - Usson's PCBs have been out of stock at SynthCube for more than a month. I don't know of any other domestic suppliers.
 
-So I have designed my own version of the main board as well as a panel board. The main board layout is closely based on Usson's, with the most significant differences being the silkscreen (showing my choice of values as well as references), doubled bypass caps, relocated headers, and no MTA or MOTM power header. Unlike Usson's, my design is 2 layer — though almost everything is on one layer, except where Usson resorted to straps, and the headers for connecting to the panel board mount on the side opposite the other components.
+So I have designed my own version of the main board as well as a panel board. The main board layout is closely based on Usson's, with the most significant differences being the silkscreen (showing my choice of values as well as references), doubled bypass caps, relocated headers, and no MTA or MOTM power header. Unlike Usson's, my design is 2 layer — though almost everything is on one layer.

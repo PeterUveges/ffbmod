@@ -333,33 +333,33 @@ Wire Wire Line
 	5600 2450 5600 3100
 Wire Wire Line
 	5600 3100 5300 3100
-Text Label 1650 3850 0    50   ~ 0
+Text Label 1500 1400 0    50   ~ 0
 BP7PP
-Text Label 1650 1400 0    50   ~ 0
+Text Label 1500 3850 0    50   ~ 0
 BP8PP
-Text Label 1650 1750 0    50   ~ 0
+Text Label 1550 3500 0    50   ~ 0
 BP6PP
-Text Label 1650 2100 0    50   ~ 0
+Text Label 1600 3150 0    50   ~ 0
 BP4PP
-Text Label 1650 2450 0    50   ~ 0
-BP2PP
 Text Label 1650 2800 0    50   ~ 0
+BP2PP
+Text Label 1650 2450 0    50   ~ 0
 BP1PP
-Text Label 1650 3150 0    50   ~ 0
+Text Label 1600 2100 0    50   ~ 0
 BP3PP
-Text Label 1650 3500 0    50   ~ 0
+Text Label 1550 1750 0    50   ~ 0
 BP5PP
-Text Label 5350 1350 0    50   ~ 0
-HPPP
-Text Label 5350 1700 0    50   ~ 0
-BP12P
-Text Label 5350 2050 0    50   ~ 0
-BP10PP
-Text Label 5350 2400 0    50   ~ 0
-BP9PP
-Text Label 5350 2750 0    50   ~ 0
-BP11PP
 Text Label 5350 3100 0    50   ~ 0
+HPPP
+Text Label 5350 2750 0    50   ~ 0
+BP12P
+Text Label 5350 2400 0    50   ~ 0
+BP10PP
+Text Label 5350 2050 0    50   ~ 0
+BP9PP
+Text Label 5350 1700 0    50   ~ 0
+BP11PP
+Text Label 5350 1350 0    50   ~ 0
 LPP
 Wire Wire Line
 	2000 1550 2000 1650
@@ -453,7 +453,7 @@ AR Path="/61BABD41" Ref="J?"  Part="1"
 AR Path="/61BA2ED1/61BABD41" Ref="J8"  Part="1" 
 F 0 "J8" H 3550 2917 50  0000 C CNN
 F 1 "Conn_02x07_Odd_Even" H 3550 2826 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical" H 3500 2400 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x07_P2.54mm_Vertical" H 3500 2400 50  0001 C CNN
 F 3 "~" H 3500 2400 50  0001 C CNN
 	1    3500 2400
 	1    0    0    -1  
@@ -694,11 +694,11 @@ F 3 "" H 7450 2500 50  0001 C CNN
 	1    7450 2500
 	1    0    0    -1  
 $EndComp
-Text GLabel 7150 4950 3    50   Output ~ 0
-EVEN_P
 Text GLabel 7050 4950 3    50   Output ~ 0
-ODD_P
+EVEN_P
 Text GLabel 6950 4950 3    50   Output ~ 0
+ODD_P
+Text GLabel 7150 4950 3    50   Output ~ 0
 ALL_P
 Wire Wire Line
 	6900 4200 6900 3650
