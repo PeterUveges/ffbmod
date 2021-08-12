@@ -836,4 +836,16 @@ F 4 "DNF" H 8000 6500 50  0001 C CNN "Config"
 	1    8000 6500
 	1    0    0    -1  
 $EndComp
+$Comp
+L ao_symbols:Graphic GRAF1
+U 1 1 611512B9
+P 4650 6000
+F 0 "GRAF1" H 4928 6046 50  0000 L CNN
+F 1 "Holes" H 4928 5955 50  0000 L CNN
+F 2 "ysFFB:ysFFB-aux-slide2_holes" H 4650 6000 50  0001 C CNN
+F 3 "" H 4650 6000 50  0001 C CNN
+F 4 "DNF" H 4650 6000 50  0001 C CNN "Config"
+	1    4650 6000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
