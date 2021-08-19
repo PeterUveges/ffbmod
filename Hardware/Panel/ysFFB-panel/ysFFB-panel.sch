@@ -25,23 +25,23 @@ F 3 "" H 1550 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Mounting_Holes_Slotted_NPTH H1
+L Kosmo_panel:Mounting_Holes_Slotted H1
 U 1 1 604B1C32
 P 1000 1200
 F 0 "H1" H 1100 1199 50  0000 L CNN
 F 1 "Mounting_Holes_Slotted" H 1100 1108 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Hole_NPTH" H 1000 1200 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Holes_NPTH" H 1000 1200 50  0001 C CNN
 F 3 "" H 1000 1200 50  0001 C CNN
 	1    1000 1200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Mounting_Holes_Slotted_NPTH H2
+L Kosmo_panel:Mounting_Holes_Slotted H2
 U 1 1 604B2308
 P 2100 1200
 F 0 "H2" H 2200 1199 50  0000 L CNN
 F 1 "Mounting_Holes_Slotted" H 2200 1108 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Hole_NPTH" H 2100 1200 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Holes_NPTH" H 2100 1200 50  0001 C CNN
 F 3 "" H 2100 1200 50  0001 C CNN
 	1    2100 1200
 	1    0    0    -1  
@@ -64,7 +64,7 @@ F 4 "DNF" H 3150 4650 50  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H3
+L Kosmo_panel:Slide_Pot_Hole H3
 U 1 1 611532EF
 P 1000 2250
 F 0 "H3" H 1106 2296 50  0000 L CNN
@@ -75,7 +75,7 @@ F 3 "" H 1000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Jack_Hole_NPTH H5
+L Kosmo_panel:Jack_Hole H5
 U 1 1 61153AC8
 P 1000 4000
 F 0 "H5" H 1135 4046 50  0000 L CNN
@@ -86,7 +86,7 @@ F 3 "" H 1000 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Mounting_Hole_NPTH H6
+L Kosmo_panel:Mounting_Hole H6
 U 1 1 61153E16
 P 1000 4550
 F 0 "H6" H 1100 4646 50  0000 L CNN
@@ -97,18 +97,18 @@ F 3 "" H 1000 4550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Mounting_Hole_NPTH H7
+L Kosmo_panel:Mounting_Hole H7
 U 1 1 61153F8E
-P 1000 4750
-F 0 "H7" H 1100 4846 50  0000 L CNN
-F 1 "Mounting_Hole_NPTH" H 1100 4755 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Panel_Mounting_Hole_NPTH" H 1000 4750 50  0001 C CNN
-F 3 "" H 1000 4750 50  0001 C CNN
-	1    1000 4750
+P 1000 4900
+F 0 "H7" H 1100 4996 50  0000 L CNN
+F 1 "Mounting_Hole_NPTH" H 1100 4905 50  0000 L CNN
+F 2 "Kosmo_panel:Kosmo_Panel_Mounting_Hole_NPTH" H 1000 4900 50  0001 C CNN
+F 3 "" H 1000 4900 50  0001 C CNN
+	1    1000 4900
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Jack_Hole_NPTH H10
+L Kosmo_panel:Jack_Hole H10
 U 1 1 61154F05
 P 2000 4000
 F 0 "H10" H 2135 4046 50  0000 L CNN
@@ -119,7 +119,7 @@ F 3 "" H 2000 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Jack_Hole_NPTH H13
+L Kosmo_panel:Jack_Hole H13
 U 1 1 61155219
 P 3000 4000
 F 0 "H13" H 3135 4046 50  0000 L CNN
@@ -130,7 +130,7 @@ F 3 "" H 3000 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Jack_Hole_NPTH H16
+L Kosmo_panel:Jack_Hole H16
 U 1 1 61155809
 P 4000 4000
 F 0 "H16" H 4135 4046 50  0000 L CNN
@@ -141,7 +141,7 @@ F 3 "" H 4000 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Jack_Hole_NPTH H19
+L Kosmo_panel:Jack_Hole H19
 U 1 1 61155D85
 P 5000 4000
 F 0 "H19" H 5135 4046 50  0000 L CNN
@@ -152,7 +152,7 @@ F 3 "" H 5000 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H8
+L Kosmo_panel:Slide_Pot_Hole H8
 U 1 1 61156C6C
 P 2000 2250
 F 0 "H8" H 2106 2296 50  0000 L CNN
@@ -163,7 +163,7 @@ F 3 "" H 2000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H11
+L Kosmo_panel:Slide_Pot_Hole H11
 U 1 1 61157EB5
 P 3000 2250
 F 0 "H11" H 3106 2296 50  0000 L CNN
@@ -174,7 +174,7 @@ F 3 "" H 3000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H14
+L Kosmo_panel:Slide_Pot_Hole H14
 U 1 1 61157EBB
 P 4000 2250
 F 0 "H14" H 4106 2296 50  0000 L CNN
@@ -185,7 +185,7 @@ F 3 "" H 4000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H4
+L Kosmo_panel:Slide_Pot_Hole H4
 U 1 1 61159AC9
 P 1000 3250
 F 0 "H4" H 1106 3296 50  0000 L CNN
@@ -196,7 +196,7 @@ F 3 "" H 1000 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H9
+L Kosmo_panel:Slide_Pot_Hole H9
 U 1 1 61159ACF
 P 2000 3250
 F 0 "H9" H 2106 3296 50  0000 L CNN
@@ -207,7 +207,7 @@ F 3 "" H 2000 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H12
+L Kosmo_panel:Slide_Pot_Hole H12
 U 1 1 61159AD5
 P 3000 3250
 F 0 "H12" H 3106 3296 50  0000 L CNN
@@ -218,7 +218,7 @@ F 3 "" H 3000 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H15
+L Kosmo_panel:Slide_Pot_Hole H15
 U 1 1 61159ADB
 P 4000 3250
 F 0 "H15" H 4106 3296 50  0000 L CNN
@@ -229,7 +229,7 @@ F 3 "" H 4000 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H17
+L Kosmo_panel:Slide_Pot_Hole H17
 U 1 1 61161C27
 P 5000 2250
 F 0 "H17" H 5106 2296 50  0000 L CNN
@@ -240,7 +240,7 @@ F 3 "" H 5000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H20
+L Kosmo_panel:Slide_Pot_Hole H20
 U 1 1 61161C2D
 P 6000 2250
 F 0 "H20" H 6106 2296 50  0000 L CNN
@@ -251,7 +251,7 @@ F 3 "" H 6000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H22
+L Kosmo_panel:Slide_Pot_Hole H22
 U 1 1 61161C33
 P 7000 2250
 F 0 "H22" H 7106 2296 50  0000 L CNN
@@ -262,7 +262,7 @@ F 3 "" H 7000 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H18
+L Kosmo_panel:Slide_Pot_Hole H18
 U 1 1 61161C39
 P 5000 3250
 F 0 "H18" H 5106 3296 50  0000 L CNN
@@ -273,7 +273,7 @@ F 3 "" H 5000 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H21
+L Kosmo_panel:Slide_Pot_Hole H21
 U 1 1 61161C3F
 P 6000 3250
 F 0 "H21" H 6106 3296 50  0000 L CNN
@@ -284,7 +284,7 @@ F 3 "" H 6000 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Kosmo_panel:Slide_Pot_Hole_NPTH H23
+L Kosmo_panel:Slide_Pot_Hole H23
 U 1 1 61161C45
 P 7000 3250
 F 0 "H23" H 7106 3296 50  0000 L CNN
@@ -318,4 +318,55 @@ F 4 "DNF" H 4000 4650 50  0001 C CNN "Config"
 	1    4000 4650
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	1000 4200 2000 4200
+Connection ~ 2000 4200
+Wire Wire Line
+	2000 4200 3000 4200
+Connection ~ 3000 4200
+Wire Wire Line
+	3000 4200 4000 4200
+Connection ~ 4000 4200
+Wire Wire Line
+	4000 4200 5000 4200
+Wire Wire Line
+	1000 5000 900  5000
+Wire Wire Line
+	900  5000 900  4650
+Wire Wire Line
+	900  4650 1000 4650
+Wire Wire Line
+	900  4650 900  4200
+Wire Wire Line
+	900  4200 1000 4200
+Connection ~ 900  4650
+Connection ~ 1000 4200
+$Comp
+L Kosmo_panel:Ground_point_for_NPTH GP1
+U 1 1 611EBA46
+P 1100 5200
+F 0 "GP1" H 1180 5242 50  0000 L CNN
+F 1 "Ground_point_for_NPTH" H 1180 5151 50  0000 L CNN
+F 2 "Kosmo_panel:Ground_point_for_NPTH" H 1100 5200 50  0001 C CNN
+F 3 "~" H 1100 5200 50  0001 C CNN
+	1    1100 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  5000 900  5200
+Connection ~ 900  5000
+$Comp
+L power:GND #PWR0101
+U 1 1 611ECFD5
+P 900 5250
+F 0 "#PWR0101" H 900 5000 50  0001 C CNN
+F 1 "GND" H 905 5077 50  0000 C CNN
+F 2 "" H 900 5250 50  0001 C CNN
+F 3 "" H 900 5250 50  0001 C CNN
+	1    900  5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  5250 900  5200
+Connection ~ 900  5200
 $EndSCHEMATC
