@@ -30,7 +30,7 @@ U 1 1 604B1C32
 P 1000 1200
 F 0 "H1" H 1100 1199 50  0000 L CNN
 F 1 "Mounting_Holes_Slotted" H 1100 1108 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Holes_NPTH" H 1000 1200 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Holes" H 1000 1200 50  0001 C CNN
 F 3 "" H 1000 1200 50  0001 C CNN
 	1    1000 1200
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 604B2308
 P 2100 1200
 F 0 "H2" H 2200 1199 50  0000 L CNN
 F 1 "Mounting_Holes_Slotted" H 2200 1108 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Holes_NPTH" H 2100 1200 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Panel_Dual_Slotted_Mounting_Holes" H 2100 1200 50  0001 C CNN
 F 3 "" H 2100 1200 50  0001 C CNN
 	1    2100 1200
 	1    0    0    -1  
@@ -80,7 +80,7 @@ U 1 1 61153AC8
 P 1000 4000
 F 0 "H5" H 1135 4046 50  0000 L CNN
 F 1 "Jack_Hole_NPTH" H 1135 3955 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Jack_Hole_NPTH" H 1000 4150 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Jack_Hole" H 1000 4150 50  0001 C CNN
 F 3 "" H 1000 4000 50  0001 C CNN
 	1    1000 4000
 	1    0    0    -1  
@@ -91,7 +91,7 @@ U 1 1 61153E16
 P 1000 4550
 F 0 "H6" H 1100 4646 50  0000 L CNN
 F 1 "Mounting_Hole_NPTH" H 1100 4555 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Panel_Mounting_Hole_NPTH" H 1000 4550 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Panel_Mounting_Hole" H 1000 4550 50  0001 C CNN
 F 3 "" H 1000 4550 50  0001 C CNN
 	1    1000 4550
 	1    0    0    -1  
@@ -102,7 +102,7 @@ U 1 1 61153F8E
 P 1000 4900
 F 0 "H7" H 1100 4996 50  0000 L CNN
 F 1 "Mounting_Hole_NPTH" H 1100 4905 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Panel_Mounting_Hole_NPTH" H 1000 4900 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Panel_Mounting_Hole" H 1000 4900 50  0001 C CNN
 F 3 "" H 1000 4900 50  0001 C CNN
 	1    1000 4900
 	1    0    0    -1  
@@ -113,7 +113,7 @@ U 1 1 61154F05
 P 2000 4000
 F 0 "H10" H 2135 4046 50  0000 L CNN
 F 1 "Jack_Hole_NPTH" H 2135 3955 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Jack_Hole_NPTH" H 2000 4150 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Jack_Hole" H 2000 4150 50  0001 C CNN
 F 3 "" H 2000 4000 50  0001 C CNN
 	1    2000 4000
 	1    0    0    -1  
@@ -124,7 +124,7 @@ U 1 1 61155219
 P 3000 4000
 F 0 "H13" H 3135 4046 50  0000 L CNN
 F 1 "Jack_Hole_NPTH" H 3135 3955 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Jack_Hole_NPTH" H 3000 4150 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Jack_Hole" H 3000 4150 50  0001 C CNN
 F 3 "" H 3000 4000 50  0001 C CNN
 	1    3000 4000
 	1    0    0    -1  
@@ -135,7 +135,7 @@ U 1 1 61155809
 P 4000 4000
 F 0 "H16" H 4135 4046 50  0000 L CNN
 F 1 "Jack_Hole_NPTH" H 4135 3955 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Jack_Hole_NPTH" H 4000 4150 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Jack_Hole" H 4000 4150 50  0001 C CNN
 F 3 "" H 4000 4000 50  0001 C CNN
 	1    4000 4000
 	1    0    0    -1  
@@ -146,7 +146,7 @@ U 1 1 61155D85
 P 5000 4000
 F 0 "H19" H 5135 4046 50  0000 L CNN
 F 1 "Jack_Hole_NPTH" H 5135 3955 50  0000 L CNN
-F 2 "Kosmo_panel:Kosmo_Jack_Hole_NPTH" H 5000 4150 50  0001 C CNN
+F 2 "Kosmo_panel:Kosmo_Jack_Hole" H 5000 4150 50  0001 C CNN
 F 3 "" H 5000 4000 50  0001 C CNN
 	1    5000 4000
 	1    0    0    -1  
@@ -341,19 +341,6 @@ Wire Wire Line
 	900  4200 1000 4200
 Connection ~ 900  4650
 Connection ~ 1000 4200
-$Comp
-L Kosmo_panel:Ground_point_for_NPTH GP1
-U 1 1 611EBA46
-P 1100 5200
-F 0 "GP1" H 1180 5242 50  0000 L CNN
-F 1 "Ground_point_for_NPTH" H 1180 5151 50  0000 L CNN
-F 2 "Kosmo_panel:Ground_point_for_NPTH" H 1100 5200 50  0001 C CNN
-F 3 "~" H 1100 5200 50  0001 C CNN
-	1    1100 5200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	900  5000 900  5200
 Connection ~ 900  5000
 $Comp
 L power:GND #PWR0101
@@ -367,6 +354,5 @@ F 3 "" H 900 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	900  5250 900  5200
-Connection ~ 900  5200
+	900  5000 900  5250
 $EndSCHEMATC
