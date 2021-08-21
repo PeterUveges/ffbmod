@@ -72,3 +72,23 @@ I had originally planned on buying the Usson PCB and using that. I changed my mi
 - Usson's PCBs have been out of stock at SynthCube for more than a month. I don't know of any other domestic suppliers.
 
 So I have designed my own version of the main board as well as a panel board. The main board layout is closely based on Usson's, with the most significant differences being the silkscreen (showing my choice of values as well as references), doubled bypass caps, relocated headers, and no MTA or MOTM power header. Unlike Usson's, my design is 2 layer — though almost everything is on one layer.
+
+Repo uses submodules aoKicad and Kosmo_panel. To clone:
+
+```
+git clone git@github.com:holmesrichards/WaveShaper.git
+git submodule init
+git submodule update
+```
+
+If desired, copy the files from aoKicad and Kosmo\_panel to wherever you prefer (your KiCad user library directory, for instance, if you have one). Then in KiCad, add symbol libraries 
+
+```
+aoKicad/ao_symbols
+Kosmo_panel/Kosmo
+```
+and footprint libraries 
+```
+aoKicad/ao_tht
+Kosmo_panel/Kosmo_panel.
+```
