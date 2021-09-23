@@ -560,7 +560,7 @@ AR Path="/61C280DC" Ref="J?"  Part="1"
 AR Path="/61BA2ED1/61C280DC" Ref="J12"  Part="1" 
 F 0 "J12" H 9150 1800 50  0000 R CNN
 F 1 "AudioJack2" H 9300 1900 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 9100 1600 50  0001 C CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN_slots" H 9100 1600 50  0001 C CNN
 F 3 "~" H 9100 1600 50  0001 C CNN
 	1    9100 1600
 	-1   0    0    1   
@@ -575,7 +575,7 @@ AR Path="/61C280E3" Ref="J?"  Part="1"
 AR Path="/61BA2ED1/61C280E3" Ref="J13"  Part="1" 
 F 0 "J13" H 9150 3300 50  0000 R CNN
 F 1 "AudioJack2" H 9300 3400 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 9100 3100 50  0001 C CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN_slots" H 9100 3100 50  0001 C CNN
 F 3 "~" H 9100 3100 50  0001 C CNN
 	1    9100 3100
 	-1   0    0    1   
@@ -590,7 +590,7 @@ AR Path="/61C280EA" Ref="J?"  Part="1"
 AR Path="/61BA2ED1/61C280EA" Ref="J14"  Part="1" 
 F 0 "J14" H 9150 4800 50  0000 R CNN
 F 1 "AudioJack2" H 9300 4900 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 9100 4600 50  0001 C CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN_slots" H 9100 4600 50  0001 C CNN
 F 3 "~" H 9100 4600 50  0001 C CNN
 	1    9100 4600
 	-1   0    0    1   
@@ -638,7 +638,7 @@ AR Path="/61C375DB" Ref="J?"  Part="1"
 AR Path="/61BA2ED1/61C375DB" Ref="J11"  Part="1" 
 F 0 "J11" H 6971 2283 50  0000 R CNN
 F 1 "AudioJack2" H 6971 2374 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 7150 2300 50  0001 C CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN_slots" H 7150 2300 50  0001 C CNN
 F 3 "~" H 7150 2300 50  0001 C CNN
 	1    7150 2300
 	1    0    0    1   
@@ -663,7 +663,7 @@ AR Path="/61C375E7" Ref="J?"  Part="1"
 AR Path="/61BA2ED1/61C375E7" Ref="J10"  Part="1" 
 F 0 "J10" H 6971 1583 50  0000 R CNN
 F 1 "AudioJack2" H 6971 1674 50  0000 R CNN
-F 2 "ao_tht:Jack_6.35mm_PJ_629HAN" H 7150 1600 50  0001 C CNN
+F 2 "ao_tht:Jack_6.35mm_PJ_629HAN_slots" H 7150 1600 50  0001 C CNN
 F 3 "~" H 7150 1600 50  0001 C CNN
 	1    7150 1600
 	1    0    0    1   

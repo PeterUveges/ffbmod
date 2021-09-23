@@ -7,20 +7,20 @@
       "Application": "Pcbnew",
       "Version":     "5.1.10-88a1d61d58~90~ubuntu20.04.1"
     },
-    "CreationDate":  "2021-09-22T19:34:58-04:00"
+    "CreationDate":  "2021-09-22T19:39:52-04:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "ysFFB",
-      "GUID": "79734646-422e-46b6-9963-61645f706362",
+      "Name": "ysFFB-panel",
+      "GUID": "79734646-422d-4706-916e-656c2e6b6963",
       "Revision": "rev?"
     },
     "Size":
     {
-      "X": 196.100,
-      "Y": 162.100
+      "X": 200.100,
+      "Y": 200.100
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
@@ -32,7 +32,6 @@
       "PadToPad":  0.200,
       "PadToTrack":  0.200,
       "TrackToTrack":  0.200,
-      "MinLineWidth":  0.250,
       "TrackToRegion":  0.508,
       "RegionToRegion":  0.508
     }
@@ -40,47 +39,32 @@
   "FilesAttributes":
   [
     {
-      "Path":  "ysFFB-F_Cu.gbr",
+      "Path":  "ysFFB-panel-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ysFFB-B_Cu.gbr",
-      "FileFunction":  "Copper,L2,Bot",
-      "FilePolarity":  "Positive"
-    },
-    {
-      "Path":  "ysFFB-F_Paste.gbr",
+      "Path":  "ysFFB-panel-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ysFFB-B_Paste.gbr",
-      "FileFunction":  "SolderPaste,Bot",
-      "FilePolarity":  "Positive"
-    },
-    {
-      "Path":  "ysFFB-F_SilkS.gbr",
+      "Path":  "ysFFB-panel-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ysFFB-B_SilkS.gbr",
+      "Path":  "ysFFB-panel-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ysFFB-F_Mask.gbr",
+      "Path":  "ysFFB-panel-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "ysFFB-B_Mask.gbr",
-      "FileFunction":  "SolderMask,Bot",
-      "FilePolarity":  "Negative"
-    },
-    {
-      "Path":  "ysFFB-Edge_Cuts.gbr",
+      "Path":  "ysFFB-panel-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
@@ -107,18 +91,6 @@
       "Type":  "Dielectric",
       "Material":  "FR4",
       "Notes":  "Layers L1/L2"
-    },
-    {
-      "Type":  "Copper",
-      "Notes":  "Layer B.Cu"
-    },
-    {
-      "Type":  "SolderMask",
-      "Notes":  "Layer B.Mask"
-    },
-    {
-      "Type":  "SolderPaste",
-      "Notes":  "Layer B.Paste"
     },
     {
       "Type":  "Legend",

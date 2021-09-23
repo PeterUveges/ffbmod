@@ -1540,11 +1540,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85"
-     inkscape:cx="579.41176"
-     inkscape:cy="498.23529"
+     inkscape:zoom="0.425"
+     inkscape:cx="507.05882"
+     inkscape:cy="558.82353"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer12"
      showgrid="false"
      units="in"
      inkscape:window-width="1552"
@@ -1721,6 +1721,18 @@
        position="1.6141732,4.8425197"
        orientation="0,-1"
        id="guide2199" />
+    <sodipodi:guide
+       position="2.2047244,9.2913386"
+       orientation="0,-1"
+       id="guide2467" />
+    <sodipodi:guide
+       position="2.1653543,9.0944882"
+       orientation="1,0"
+       id="guide2469" />
+    <sodipodi:guide
+       position="9.6456694,9.2913386"
+       orientation="1,0"
+       id="guide2471" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -2904,7 +2916,8 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Outline"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        y="1.1574806"
        x="1.968504"
@@ -2912,15 +2925,15 @@
        width="7.8740158"
        id="rect2111-6"
        style="display:inline;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:none">
+     style="display:inline">
     <g
        id="g11977"
        transform="translate(4.6702143e-6,0.15747977)"
@@ -4222,7 +4235,8 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Art"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3491"
@@ -5557,9 +5571,9 @@
        cy="8.9133854"
        r="0.062992252"
        transform="scale(-1,1)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        transform="scale(-1,1)"
        r="0.062992252"
@@ -5567,9 +5581,9 @@
        cx="-9.7240973"
        id="circle1665"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="fill:#000000;fill-rule:evenodd;stroke-width:0.0104167"
        id="rect1667"
@@ -5577,9 +5591,9 @@
        height="0.12598455"
        x="9.613862"
        y="8.8503933"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        transform="scale(-1,1)"
        r="0.062992252"
@@ -5587,9 +5601,9 @@
        cx="-9.6138611"
        id="circle1655"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1657"
@@ -5597,9 +5611,9 @@
        cy="1.2755895"
        r="0.062992252"
        transform="scale(-1,1)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        y="1.212598"
        x="9.613862"
@@ -5607,134 +5621,134 @@
        width="0.11054317"
        id="rect1659"
        style="fill:#000000;fill-rule:evenodd;stroke-width:0.0104167"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        r="0.19685039"
        cy="8.0472441"
        cx="2.7559054"
        id="path3464"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3482"
        d="M 2.7559011,7.948819 V 8.1456695"
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        inkscape:connector-curvature="0"
        id="path3484"
        d="m 2.8543261,8.0472442 h -0.19685"
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <circle
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4619"
        cx="4.3307085"
        cy="8.0472441"
        r="0.19685039"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 4.3307042,7.948819 V 8.1456695"
        id="path4621"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.4291292,8.0472442 h -0.19685"
        id="path4623"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <circle
        r="0.19685039"
        cy="8.0472441"
        cx="5.9055119"
        id="circle4645"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4647"
        d="M 5.9055073,7.948819 V 8.1456695"
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4649"
        d="m 6.0039323,8.0472442 h -0.19685"
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <circle
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4671"
        cx="7.4803152"
        cy="8.0472441"
        r="0.19685039"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 7.4803104,7.948819 V 8.1456695"
        id="path4673"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 7.5787354,8.0472442 h -0.19685"
        id="path4675"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <circle
        r="0.19685039"
        cy="8.0472441"
        cx="9.0551186"
        id="circle4697"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4699"
        d="M 9.0551135,7.948819 V 8.1456695"
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4701"
        d="m 9.1535385,8.0472442 h -0.19685"
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png" />
     <circle
        transform="scale(-1,1)"
        r="0.062992252"
@@ -5742,9 +5756,9 @@
        cx="-2.0866132"
        id="circle1673"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1675"
@@ -5752,9 +5766,9 @@
        cy="8.9133854"
        r="0.062992252"
        transform="scale(-1,1)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        y="8.8503933"
        x="2.0866144"
@@ -5762,9 +5776,9 @@
        width="0.11054317"
        id="rect1677"
        style="fill:#000000;fill-rule:evenodd;stroke-width:0.0104167"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1681"
@@ -5772,9 +5786,9 @@
        cy="1.2755895"
        r="0.062992252"
        transform="scale(-1,1)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        transform="scale(-1,1)"
        r="0.062992252"
@@ -5782,9 +5796,9 @@
        cx="-2.1968496"
        id="circle1683"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="fill:#000000;fill-rule:evenodd;stroke-width:0.0104167"
        id="rect1685"
@@ -5792,9 +5806,9 @@
        height="0.12598455"
        x="2.0866144"
        y="1.212598"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        r="0.19685039"
        cy="1.7480437"
@@ -7780,27 +7794,27 @@
        x="-5.8766813"
        y="2.2965469"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        r="0.062992126"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4259"
-       cx="-1.7086555"
-       cy="2.2047322"
+       cx="-1.7086623"
+       cy="2.1653547"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.2047319,1.6692846 v 0.07874"
+       d="m 2.1653544,1.6692914 v 0.07874"
        id="path4263"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <circle
        r="0.062992126"
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7808,25 +7822,25 @@
        cx="-1.7086576"
        cy="9.645668"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 9.6062994,1.7086614 h 0.07874"
        id="path4276"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 9.6456694,1.6692874 v 0.07874"
        id="path4278"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3511"
@@ -7835,9 +7849,9 @@
        x="-5.8766813"
        y="2.847728"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3545"
@@ -7846,9 +7860,9 @@
        x="-5.8766813"
        y="3.3989091"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3579"
@@ -7857,9 +7871,9 @@
        x="-5.8766813"
        y="3.9500902"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3613"
@@ -7868,9 +7882,9 @@
        x="-5.8766813"
        y="4.5012712"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3647"
@@ -7879,9 +7893,9 @@
        x="-5.8766813"
        y="5.0524526"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3681"
@@ -7890,9 +7904,9 @@
        x="-5.8766813"
        y="5.6036339"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3715"
@@ -7901,9 +7915,9 @@
        x="-5.8766813"
        y="6.1548152"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3749"
@@ -7912,9 +7926,9 @@
        x="-5.8766813"
        y="6.7059965"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3783"
@@ -7923,9 +7937,9 @@
        x="-5.8766813"
        y="7.2571778"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3817"
@@ -7934,9 +7948,9 @@
        x="-5.8766813"
        y="7.8083591"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3851"
@@ -7945,9 +7959,9 @@
        x="-5.8766813"
        y="8.35954"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3886"
@@ -7956,9 +7970,9 @@
        x="-5.8766813"
        y="8.9107208"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <rect
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3920"
@@ -7967,17 +7981,17 @@
        x="-5.8766813"
        y="9.4619017"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.2441019,1.7086546 h -0.07874"
+       d="m 2.2047244,1.7086614 h -0.07874"
        id="path12117"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2_holes.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -9191,7 +9205,7 @@
     <g
        id="g4272"
        style="display:inline"
-       transform="translate(12.401433,-4.8353528)"
+       transform="translate(12.362056,-4.835346)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/YuSynth/Modular/EN/BANK/FFB mod/Images/ysFFB-panel_slide2.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
