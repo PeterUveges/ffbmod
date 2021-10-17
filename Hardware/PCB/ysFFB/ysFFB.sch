@@ -771,7 +771,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 1450 6500 50  0001 C CNN
 F 4 "Tayda" H 1400 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 1400 6300 50  0001 C CNN "SKU"
 	5    1400 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1000 6000 1300 6000
@@ -839,7 +839,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2100 6500 50  0001 C CNN
 F 4 "Tayda" H 2050 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 2050 6300 50  0001 C CNN "SKU"
 	5    2050 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1650 6000 1950 6000
@@ -907,7 +907,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2750 6500 50  0001 C CNN
 F 4 "Tayda" H 2700 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 2700 6300 50  0001 C CNN "SKU"
 	5    2700 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2300 6000 2600 6000
@@ -975,7 +975,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3400 6500 50  0001 C CNN
 F 4 "Tayda" H 3350 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 3350 6300 50  0001 C CNN "SKU"
 	5    3350 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2950 6000 3250 6000
@@ -1030,7 +1030,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 4050 6500 50  0001 C CNN
 F 4 "Tayda" H 4000 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 4000 6300 50  0001 C CNN "SKU"
 	5    4000 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	3600 6000 3900 6000
@@ -1098,7 +1098,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5350 6500 50  0001 C CNN
 F 4 "Tayda" H 5300 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 5300 6300 50  0001 C CNN "SKU"
 	5    5300 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4900 6000 5200 6000
@@ -1166,7 +1166,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6000 6500 50  0001 C CNN
 F 4 "Tayda" H 5950 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 5950 6300 50  0001 C CNN "SKU"
 	5    5950 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	5550 6000 5850 6000
@@ -1234,7 +1234,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 4700 6500 50  0001 C CNN
 F 4 "Tayda" H 4650 6300 50  0001 C CNN "Vendor"
 F 5 "A-1138" H 4650 6300 50  0001 C CNN "SKU"
 	5    4650 6300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4250 6000 4550 6000
