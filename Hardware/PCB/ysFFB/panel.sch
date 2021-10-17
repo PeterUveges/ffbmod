@@ -521,8 +521,6 @@ Connection ~ 4900 2750
 Wire Wire Line
 	4900 2750 4900 3100
 Connection ~ 4900 3100
-Wire Wire Line
-	4900 3100 4900 3600
 $Comp
 L power:GND1 #PWR084
 U 1 1 61BB2782
@@ -701,7 +699,7 @@ ODD_P
 Text GLabel 7150 4950 3    50   Output ~ 0
 ALL_P
 Wire Wire Line
-	6900 4200 6900 3650
+	6900 4200 6900 3800
 $Comp
 L Connector_Generic:Conn_01x04 J?
 U 1 1 61CBFF3A
@@ -778,8 +776,6 @@ Wire Wire Line
 	6850 4950 6850 5200
 Text GLabel 7100 3650 3    50   Input ~ 0
 LOW_INPUT_P
-Text GLabel 7000 3650 3    50   Input ~ 0
-HIGH_INPUT_P
 $Comp
 L ao_symbols:MountingHole H?
 U 1 1 6114F100
@@ -848,4 +844,22 @@ F 4 "DNF" H 4650 6000 50  0001 C CNN "Config"
 	1    4650 6000
 	1    0    0    -1  
 $EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 61653333
+P 6900 3800
+F 0 "#FLG0101" H 6900 3875 50  0001 C CNN
+F 1 "PWR_FLAG" V 6900 3927 50  0000 L CNN
+F 2 "" H 6900 3800 50  0001 C CNN
+F 3 "~" H 6900 3800 50  0001 C CNN
+	1    6900 3800
+	0    -1   -1   0   
+$EndComp
+Connection ~ 6900 3800
+Wire Wire Line
+	6900 3800 6900 3650
+Text GLabel 7000 3650 3    50   Input ~ 0
+HIGH_INPUT_P
+Wire Wire Line
+	4900 3100 4900 3600
 $EndSCHEMATC

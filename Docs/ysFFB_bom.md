@@ -1,6 +1,6 @@
 # ysFFB.sch BOM
 
-Wed 15 Sep 2021 04:39:01 PM EDT
+Sat 16 Oct 2021 07:55:19 PM EDT
 
 Generated from schematic by Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1
 
@@ -9,7 +9,7 @@ Generated from schematic by Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1
 | Refs | Qty | Component | Description | Vendor | SKU |
 | ----- | --- | ---- | ----------- | ---- | ---- |
 | C1, C2, C5, C6, C7, C8, C10, C11, C12, C13, C14, C15, C18, C19, C20, C21 | 16 | 100nF | Unpolarized capacitor | Tayda | A-553 |
-| C3, C4 | 2 | 10uF | Polarized capacitor |  |  |
+| C3, C4 | 2 | 10uF | Polarized capacitor | Tayda |  |
 | C9, C22, C23, C24 | 4 | 22pF | Unpolarized capacitor |  |  |
 | C16, C17 | 2 | 10uF | Polarized capacitor | Tayda | A-4349 |
 | C25, C29, C33, C37 | 4 | 120nF | Unpolarized capacitor |  |  |
@@ -52,7 +52,7 @@ Generated from schematic by Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1
 | R75 | 1 | 82k | Resistor |  |  |
 | R77, R81 | 2 | 12k | Resistor |  |  |
 | R82 | 1 | 3.9k | Resistor |  |  |
-| RN1, RN2, RN3, RN4 | 4 | R_Network08 | 8 resistor network, star topology, bussed resistors, small symbol |  |  |
+| RN1, RN2, RN3, RN4 | 4 | 100k | 8 resistor network, star topology, bussed resistors, small symbol |  |  |
 | RV1, RV2, RV3, RV4, RV5, RV6, RV7, RV8, RV9, RV10, RV11, RV12, RV13, RV14 | 14 | A10k | Potentiometer |  |  |
 | U1, U2, U3, U4, U5, U6, U7, U8 | 8 | TL074 | Quad operational amplifier, DIP-14 | Tayda | A-1138 |
     
