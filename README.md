@@ -10,6 +10,10 @@ This is a somewhat modified version of Yves Usson's [module](https://www.yusynth
 * Use of dual bypass caps (one from each rail to ground instead of one between the two rails).
 * Omission of MOTM and MTA power headers.
 
+## Errata
+
+**WARNING!** On the first run PCBs (marked Aug 2021, no version number) the power connections to the ICs were reversed. To get around this, install all ICs "backwards", opposite the direction indicated on the silkscreen. The error has been corrected in the design files — by rerouting the power, not by turning the ICs — and power connections are correct on boards marked v1.0 (Oct 2021) or later. If in doubt use your multimeter before installing ICs to verify +12 V is on pin 4, -12 V is on pin 11. A good idea any time you build a module anyway, especially one with eight ICs!
+
 ## Tuning
 Usson's filters are tuned to the same frequencies as in the Moog 914 module, except that for some reason he used 750 Hz instead of 700 Hz. The Moog filter frequencies are about six semitones (half an octave) apart. But note the following observation from the catalog description of the [Serge Resonant Equalizer](https://www.elby-designs.com/webtek/cgs/serge/cgs202/cgs202.htm): 
 
