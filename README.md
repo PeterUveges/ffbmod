@@ -5,7 +5,7 @@
 This is a somewhat modified version of Yves Usson's [module](https://www.yusynth.net/Modular/EN/BANK/index.html). Changes are:
 
 * Tuning.
-* Addition of auxiliary PCB for panel mounted slide pots and jacks.
+* Addition of auxiliary PCB for board mounted slide pots and jacks (instead of Usson's panel mounted, wired rotary pots and jacks).
 * Relocation of headers on main PCB to accommodate mating with sockets on panel components PCB. Ribbon cable is replaced by mated header/socket.
 * Use of dual bypass caps (one from each rail to ground instead of one between the two rails).
 * Omission of MOTM and MTA power headers.
@@ -27,7 +27,7 @@ Note that in this new tuning several of the required capacitances come out to av
 
 ## Submodules
 
-This repo uses submodules aoKicad and Kosmo_panel, needed for KiCad. To clone:
+This repo uses submodules aoKicad and Kosmo_panel, providing libraries needed for KiCad. To clone:
 
 ```
 git clone git@github.com:holmesrichards/ffb.git
