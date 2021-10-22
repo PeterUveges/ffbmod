@@ -25,6 +25,10 @@ For a list of the new frequencies, new capacitor values for the low pass and ban
 
 Note that in this new tuning several of the required capacitances come out to available standard values. For those, only a single capacitor instead of two is used (saving 20 capacitors! Though this is partly offset by my use of dual bypass caps.) The unneeded capacitors are shown (marked DNF, "do not fit") in the schematic and have footprints on the PCB, in case I or anyone else ever wants to use this board for a differently-tuned version. For a build with my tuning, these footprints should be left unpopulated.
 
+## YuSynth request
+
+Usson writes: 'All circuits, schematics, printed circuit board, panel design and associated data published on \[yusynth.net\] can be used for private use only.' 
+
 ## Submodules
 
 This repo uses submodules aoKicad and Kosmo_panel, providing libraries needed for KiCad. To clone:
