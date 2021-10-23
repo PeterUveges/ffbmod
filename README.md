@@ -25,7 +25,7 @@ Note that in this new tuning several of the required capacitances come out to av
 
 ## YuSynth request
 
-Usson writes: 'All circuits, schematics, printed circuit board, panel design and associated data published on \[yusynth.net\] can be used for private use only.' 
+Usson writes: 'All circuits, schematics, printed circuit board, panel design and associated data published on \[yusynth.net\] can be used for private use only.' I do not believe this repo violates his wishes and you are urged to respect them as well. 
 
 ## Photos
 
