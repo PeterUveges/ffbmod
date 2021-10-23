@@ -37,7 +37,7 @@ Usson writes: 'All circuits, schematics, printed circuit board, panel design and
 * PCB layout: [front](Docs/ysFFB_layout_front.pdf), [back](Docs/ysFFB_layout_back.pdf)
 * [BOM](Docs/ysFFB_bom.md)
 * [Build notes](Docs/build.md)
-* [Retuning] (Docs/retuning.md)
+* [Retuning](Docs/retuning.md)
 
 ## GitHub repository
 
