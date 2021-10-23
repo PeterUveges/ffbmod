@@ -27,6 +27,22 @@ Note that in this new tuning several of the required capacitances come out to av
 
 Usson writes: 'All circuits, schematics, printed circuit board, panel design and associated data published on \[yusynth.net\] can be used for private use only.' 
 
+## Photos
+
+![](Images/PXL_20211020_154133994.jpg)
+
+## Documentation:
+
+* [Schematic](Docs/ysFFB.pdf)
+* PCB layout: [front](Docs/ysFFB_layout_front.pdf), [back](Docs/ysFFB_layout_back.pdf)
+* [BOM](Docs/ysFFB_bom.md)
+* [Build notes](Docs/build.md)
+* [Retuning] (Docs/retuning.md)
+
+## GitHub repository
+
+* [https://github.com/holmesrichards/ffbmod](https://github.com/holmesrichards/ffbmod)
+
 ## Submodules
 
 This repo uses submodules aoKicad and Kosmo_panel, providing libraries needed for KiCad. To clone:

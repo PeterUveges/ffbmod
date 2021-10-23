@@ -1,6 +1,6 @@
 # YuSynth Fixed Filter Bank retuning
 
-New frequencies and component values, computed using the formulas in Usson's writeup, are shown below. All the capacitor values are available for polyester film caps from Tayda as of April 2021. 
+New frequencies and component values, computed using the formulas in Usson's writeup, are shown below. I wrote a Python script to aid in this which you can find in the Software folder. All the capacitor values are available for polyester film caps from Tayda as of April 2021. 
 
 Note that some capacitor references are not used; the footprints are on the PCB but should be left unpopulated.
 
