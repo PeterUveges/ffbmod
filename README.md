@@ -1,7 +1,5 @@
 # YuSynth Fixed Filter Bank (modified)
 
-**Untested hardware and software — Do not assume anything works!**
-
 This is a somewhat modified version of Yves Usson's [module](https://www.yusynth.net/Modular/EN/BANK/index.html). Changes are:
 
 * Tuning.
