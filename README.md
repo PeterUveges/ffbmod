@@ -29,7 +29,8 @@ Usson writes: 'All circuits, schematics, printed circuit board, panel design and
 
 ## Photos
 
-![](Images/PXL_20211020_154133994.jpg)
+![](Images/ffb.jpg)
+![](Images/pcb.jpg)
 
 ## Documentation:
 
