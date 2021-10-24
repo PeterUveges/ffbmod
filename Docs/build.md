@@ -1,6 +1,6 @@
 # Fixed filter bank build notes
 
-This is a pretty massive module, with a 20 by 20 cm front panel, 94 fixed resistors (not counting four resistor arrays), 14 slide pots, 121 capacitors, and 8 quad op amps. But building it is very straightforward. A lot of soldering but not a lot of complications.
+This is a pretty massive module, with a 20 by 20 cm front panel, 94 fixed resistors (not counting four resistor arrays), 14 slide pots, 113 capacitors, and 8 quad op amps. But building it is very straightforward. A lot of soldering but not a lot of complications.
 
 To repeat from the README file:
 
