@@ -1,6 +1,6 @@
 # YuSynth Fixed Filter Bank (modified)
 
-This is a somewhat modified version of Yves Usson's [module](https://www.yusynth.net/Modular/EN/BANK/index.html). Changes are:
+This is a somewhat modified version of Yves Usson's [module](https://www.yusynth.net/Modular/EN/BANK/index.html) in Kosmo format. Changes are:
 
 * Tuning.
 * Addition of auxiliary PCB for board mounted slide pots and jacks (instead of Usson's panel mounted, wired rotary pots and jacks).
