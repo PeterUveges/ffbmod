@@ -21,7 +21,7 @@ Following something like this idea, I have retuned Usson's module. Specifically,
 
 For a list of the new frequencies, new capacitor values for the low pass and band pass filters, and new resistor values for the high pass filter, see [retuning.md](Docs/retuning.md).
 
-Note that in this new tuning several of the required capacitances come out to available standard values. For those, only a single capacitor instead of two is used (saving 20 capacitors! Though this is partly offset by my use of dual bypass caps.) The unneeded capacitors are shown (marked DNF, "do not fit") in the schematic and have footprints on the PCB, in case I or anyone else ever wants to use this board for a differently-tuned version. For a build with my tuning, these footprints should be left unpopulated.
+In the tuning Usson used, all the required capacitances are non standard values, so he used pairs of standard value capacitors adding to the required value. Note that in this new tuning several of the required capacitances come out to available standard values. For those, only a single capacitor instead of two is used (saving 20 capacitors! Though this is partly offset by my use of dual bypass caps.) The unneeded capacitors are shown (marked DNF, "do not fit") in the schematic and have footprints on the PCB, in case I or anyone else ever wants to use this board for a differently-tuned version. For a build with my tuning, these footprints should be left unpopulated.
 
 ## YuSynth request
 
