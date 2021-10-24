@@ -8,7 +8,7 @@ To repeat from the README file:
 
 Each filter has its own region on the PCB, plus a region for the input and output sections. I built mine incrementally. I did the input and output sections and one of the bandpass filters first, and tested those. Then I added the low and high pass filters, and tested again. Then I added the remaining 11 bandpass filters.
 
-This was the first time I used SIP resistor arrays. These contain eight resistors all connected at one end to one terminal and at the other end to eight other individual terminals. The common terminal is the one on the left when the printing on the SIP is facing you, and it goes in the square hole. (Note two arrays are oriented opposite the other two.)
+This was the first time I used SIP resistor arrays. These contain eight resistors all connected at one end to one terminal and at the other end to eight other individual terminals. The common terminal is the one on the left when the printing on the SIP is facing you, and it goes in the hole with the square pad. (Note two arrays are oriented opposite the other two.)
 
 I recommend soldering at least the 2x7 pin header on the main PCB before the resistor arrays. But you might as well do them all. Put the pin headers and sockets together and sandwich them between the PCBs before soldering them. They all go on the sides opposite the other components. I found it easier to do the three larger headers/sockets first, then add the two smaller ones.
 
