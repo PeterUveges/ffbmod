@@ -23,6 +23,10 @@ For a list of the new frequencies, new capacitor values for the low pass and ban
 
 In the tuning Usson used, all the required capacitances are non standard values, so he used pairs of standard value capacitors adding to the required value. Note that in this new tuning several of the required capacitances come out to available standard values. For those, only a single capacitor instead of two is used (saving 20 capacitors! Though this is partly offset by my use of dual bypass caps.) The unneeded capacitors are shown (marked DNF, "do not fit") in the schematic and have footprints on the PCB, in case I or anyone else ever wants to use this board for a differently-tuned version. For a build with my tuning, these footprints should be left unpopulated.
 
+## Current draw
+46 mA +12 V, 46 mA -12 V (This is what I measured; Usson says 70 mA on both rails (at ±15 V).)
+
+
 ## YuSynth request
 
 Usson writes: 'All circuits, schematics, printed circuit board, panel design and associated data published on \[yusynth.net\] can be used for private use only.' I do not believe this repo violates his wishes and you are urged to respect them as well. CC0 licensing is intended to cover my modifications and original work, not to negate Usson's rights regarding his designs.
